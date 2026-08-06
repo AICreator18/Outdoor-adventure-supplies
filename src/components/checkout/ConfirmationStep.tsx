@@ -8,7 +8,7 @@ interface ConfirmationStepProps {
 }
 
 export default function ConfirmationStep({ order, onContinueShopping }: ConfirmationStepProps) {
-  const { payment, address, items, subtotal, shippingCharge, grandTotal, orderId, shippingEstimate } = order;
+  const { payment, address, items, shippingCharge, grandTotal, orderId, shippingEstimate } = order;
 
   const paymentLabel =
     payment.method === "card"
