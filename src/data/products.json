@@ -1,0 +1,2356 @@
+[
+  {
+    "id": "1",
+    "slug": "trailhead-4-person-dome-tent",
+    "name": "Trailhead 4-Person Dome Tent",
+    "category": "camping",
+    "subcategory": "Camping Tents",
+    "brand": "TrailForge",
+    "price": 15799,
+    "originalPrice": 19099,
+    "currency": "INR",
+    "rating": 3.6,
+    "reviewCount": 12,
+    "thumbnail": "/images/products/trailhead-4-person-dome-tent.jpg",
+    "images": [
+      {
+        "url": "/images/products/trailhead-4-person-dome-tent.jpg",
+        "alt": "Trailhead 4-Person Dome Tent"
+      },
+      {
+        "url": "/images/products/trailhead-4-person-dome-tent.jpg",
+        "alt": "Trailhead 4-Person Dome Tent"
+      },
+      {
+        "url": "/images/products/trailhead-4-person-dome-tent.jpg",
+        "alt": "Trailhead 4-Person Dome Tent"
+      }
+    ],
+    "shortDescription": "Weatherproof rainfly with taped seams",
+    "description": "The Trailhead 4-Person Dome Tent from TrailForge is built for adventurers who refuse to compromise on quality. Weatherproof rainfly with taped seams. Freestanding dome design, sets up in under 10 minutes. Two large mesh windows for ventilation. Includes gear loft and interior pockets. Designed and tested for the demands of the outdoors, it's a reliable addition to any camping tents kit.",
+    "features": [
+      "Weatherproof rainfly with taped seams",
+      "Freestanding dome design, sets up in under 10 minutes",
+      "Two large mesh windows for ventilation",
+      "Includes gear loft and interior pockets"
+    ],
+    "specifications": {
+      "Capacity": "4 Person",
+      "Packed Weight": "5.4 kg",
+      "Floor Area": "7.4 m²",
+      "Season Rating": "3-Season",
+      "Material": "Ripstop Polyester"
+    },
+    "inStock": false,
+    "stockCount": 0,
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isNew": false,
+    "isOnSale": true,
+    "tags": [
+      "camping",
+      "camping tents"
+    ]
+  },
+  {
+    "id": "2",
+    "slug": "summit-ridge-2-person-backpacking-tent",
+    "name": "Summit Ridge 2-Person Backpacking Tent",
+    "category": "camping",
+    "subcategory": "Camping Tents",
+    "brand": "Summit Gear",
+    "price": 20699,
+    "currency": "INR",
+    "rating": 4.5,
+    "reviewCount": 65,
+    "thumbnail": "/images/products/summit-ridge-2-person-backpacking-tent.jpg",
+    "images": [
+      {
+        "url": "/images/products/summit-ridge-2-person-backpacking-tent.jpg",
+        "alt": "Summit Ridge 2-Person Backpacking Tent"
+      },
+      {
+        "url": "/images/products/summit-ridge-2-person-backpacking-tent.jpg",
+        "alt": "Summit Ridge 2-Person Backpacking Tent"
+      },
+      {
+        "url": "/images/products/summit-ridge-2-person-backpacking-tent.jpg",
+        "alt": "Summit Ridge 2-Person Backpacking Tent"
+      }
+    ],
+    "shortDescription": "Ultralight aluminum pole structure",
+    "description": "The Summit Ridge 2-Person Backpacking Tent from Summit Gear is built for adventurers who refuse to compromise on quality. Ultralight aluminum pole structure. Double-wall design reduces condensation. Two vestibules for gear storage. Compresses to 42cm packed size. Designed and tested for the demands of the outdoors, it's a reliable addition to any camping tents kit.",
+    "features": [
+      "Ultralight aluminum pole structure",
+      "Double-wall design reduces condensation",
+      "Two vestibules for gear storage",
+      "Compresses to 42cm packed size"
+    ],
+    "specifications": {
+      "Capacity": "2 Person",
+      "Packed Weight": "1.8 kg",
+      "Floor Area": "2.7 m²",
+      "Season Rating": "3-Season",
+      "Material": "20D Nylon Ripstop"
+    },
+    "inStock": true,
+    "stockCount": 10,
+    "isFeatured": false,
+    "isBestSeller": true,
+    "isNew": false,
+    "isOnSale": false,
+    "tags": [
+      "camping",
+      "camping tents"
+    ]
+  },
+  {
+    "id": "3",
+    "slug": "alpine-mist-3-season-sleeping-bag",
+    "name": "Alpine Mist 3-Season Sleeping Bag",
+    "category": "camping",
+    "subcategory": "Sleeping Bags",
+    "brand": "Northwoods Co.",
+    "price": 9999,
+    "currency": "INR",
+    "rating": 4,
+    "reviewCount": 118,
+    "thumbnail": "/images/products/alpine-mist-3-season-sleeping-bag.jpg",
+    "images": [
+      {
+        "url": "/images/products/alpine-mist-3-season-sleeping-bag.jpg",
+        "alt": "Alpine Mist 3-Season Sleeping Bag"
+      },
+      {
+        "url": "/images/products/alpine-mist-3-season-sleeping-bag.jpg",
+        "alt": "Alpine Mist 3-Season Sleeping Bag"
+      },
+      {
+        "url": "/images/products/alpine-mist-3-season-sleeping-bag.jpg",
+        "alt": "Alpine Mist 3-Season Sleeping Bag"
+      }
+    ],
+    "shortDescription": "Synthetic insulation retains warmth when damp",
+    "description": "The Alpine Mist 3-Season Sleeping Bag from Northwoods Co. is built for adventurers who refuse to compromise on quality. Synthetic insulation retains warmth when damp. Mummy shape for maximum heat retention. Full-length YKK zipper with anti-snag guard. Stuff sack included. Designed and tested for the demands of the outdoors, it's a reliable addition to any sleeping bags kit.",
+    "features": [
+      "Synthetic insulation retains warmth when damp",
+      "Mummy shape for maximum heat retention",
+      "Full-length YKK zipper with anti-snag guard",
+      "Stuff sack included"
+    ],
+    "specifications": {
+      "Temperature Rating": "-5°C to 10°C",
+      "Fill Type": "Synthetic",
+      "Weight": "1.6 kg",
+      "Shape": "Mummy"
+    },
+    "inStock": true,
+    "stockCount": 17,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "camping",
+      "sleeping bags"
+    ]
+  },
+  {
+    "id": "4",
+    "slug": "frostguard-winter-sleeping-bag",
+    "name": "Frostguard Winter Sleeping Bag",
+    "category": "camping",
+    "subcategory": "Sleeping Bags",
+    "brand": "Basecamp",
+    "price": 14099,
+    "originalPrice": 16599,
+    "currency": "INR",
+    "rating": 4.9,
+    "reviewCount": 171,
+    "thumbnail": "/images/products/frostguard-winter-sleeping-bag.jpg",
+    "images": [
+      {
+        "url": "/images/products/frostguard-winter-sleeping-bag.jpg",
+        "alt": "Frostguard Winter Sleeping Bag"
+      },
+      {
+        "url": "/images/products/frostguard-winter-sleeping-bag.jpg",
+        "alt": "Frostguard Winter Sleeping Bag"
+      },
+      {
+        "url": "/images/products/frostguard-winter-sleeping-bag.jpg",
+        "alt": "Frostguard Winter Sleeping Bag"
+      }
+    ],
+    "shortDescription": "600-fill water-resistant down",
+    "description": "The Frostguard Winter Sleeping Bag from Basecamp is built for adventurers who refuse to compromise on quality. 600-fill water-resistant down. Insulated draft collar and zipper baffle. Rated for sub-zero expeditions. Compression sack included. Designed and tested for the demands of the outdoors, it's a reliable addition to any sleeping bags kit.",
+    "features": [
+      "600-fill water-resistant down",
+      "Insulated draft collar and zipper baffle",
+      "Rated for sub-zero expeditions",
+      "Compression sack included"
+    ],
+    "specifications": {
+      "Temperature Rating": "-15°C to -5°C",
+      "Fill Type": "600-Fill Down",
+      "Weight": "1.9 kg",
+      "Shape": "Mummy"
+    },
+    "inStock": true,
+    "stockCount": 24,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNew": false,
+    "isOnSale": true,
+    "tags": [
+      "camping",
+      "sleeping bags"
+    ]
+  },
+  {
+    "id": "5",
+    "slug": "basecamp-folding-camp-chair",
+    "name": "Basecamp Folding Camp Chair",
+    "category": "camping",
+    "subcategory": "Camping Furniture",
+    "brand": "Ridgeline",
+    "price": 4999,
+    "currency": "INR",
+    "rating": 4.4,
+    "reviewCount": 224,
+    "thumbnail": "/images/products/basecamp-folding-camp-chair.jpg",
+    "images": [
+      {
+        "url": "/images/products/basecamp-folding-camp-chair.jpg",
+        "alt": "Basecamp Folding Camp Chair"
+      },
+      {
+        "url": "/images/products/basecamp-folding-camp-chair.jpg",
+        "alt": "Basecamp Folding Camp Chair"
+      },
+      {
+        "url": "/images/products/basecamp-folding-camp-chair.jpg",
+        "alt": "Basecamp Folding Camp Chair"
+      }
+    ],
+    "shortDescription": "Steel frame supports up to 150kg",
+    "description": "The Basecamp Folding Camp Chair from Ridgeline is built for adventurers who refuse to compromise on quality. Steel frame supports up to 150kg. Padded armrests and cup holder. Folds flat for easy transport. Includes carry bag. Designed and tested for the demands of the outdoors, it's a reliable addition to any camping furniture kit.",
+    "features": [
+      "Steel frame supports up to 150kg",
+      "Padded armrests and cup holder",
+      "Folds flat for easy transport",
+      "Includes carry bag"
+    ],
+    "specifications": {
+      "Weight Capacity": "150 kg",
+      "Packed Size": "94 x 15 x 15 cm",
+      "Material": "600D Polyester / Steel"
+    },
+    "inStock": true,
+    "stockCount": 31,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNew": false,
+    "isOnSale": false,
+    "tags": [
+      "camping",
+      "camping furniture"
+    ]
+  },
+  {
+    "id": "6",
+    "slug": "wanderer-portable-camp-table",
+    "name": "Wanderer Portable Camp Table",
+    "category": "camping",
+    "subcategory": "Camping Furniture",
+    "brand": "Wildpeak",
+    "price": 6199,
+    "currency": "INR",
+    "rating": 3.9,
+    "reviewCount": 277,
+    "thumbnail": "/images/products/wanderer-portable-camp-table.jpg",
+    "images": [
+      {
+        "url": "/images/products/wanderer-portable-camp-table.jpg",
+        "alt": "Wanderer Portable Camp Table"
+      },
+      {
+        "url": "/images/products/wanderer-portable-camp-table.jpg",
+        "alt": "Wanderer Portable Camp Table"
+      },
+      {
+        "url": "/images/products/wanderer-portable-camp-table.jpg",
+        "alt": "Wanderer Portable Camp Table"
+      }
+    ],
+    "shortDescription": "Adjustable height, roll-up aluminum top",
+    "description": "The Wanderer Portable Camp Table from Wildpeak is built for adventurers who refuse to compromise on quality. Adjustable height, roll-up aluminum top. Lightweight and corrosion resistant. Folds into included carry case. Stable locking legs. Designed and tested for the demands of the outdoors, it's a reliable addition to any camping furniture kit.",
+    "features": [
+      "Adjustable height, roll-up aluminum top",
+      "Lightweight and corrosion resistant",
+      "Folds into included carry case",
+      "Stable locking legs"
+    ],
+    "specifications": {
+      "Dimensions": "80 x 60 x 68 cm",
+      "Weight": "3.6 kg",
+      "Material": "Aluminum"
+    },
+    "inStock": true,
+    "stockCount": 38,
+    "isFeatured": true,
+    "isBestSeller": true,
+    "isNew": false,
+    "isOnSale": false,
+    "tags": [
+      "camping",
+      "camping furniture"
+    ]
+  },
+  {
+    "id": "7",
+    "slug": "lumen-300-led-camping-lantern",
+    "name": "Lumen 300 LED Camping Lantern",
+    "category": "camping",
+    "subcategory": "Camping Lights",
+    "brand": "Alpine & Oak",
+    "price": 2899,
+    "currency": "INR",
+    "rating": 4.8,
+    "reviewCount": 330,
+    "thumbnail": "/images/products/lumen-300-led-camping-lantern.jpg",
+    "images": [
+      {
+        "url": "/images/products/lumen-300-led-camping-lantern.jpg",
+        "alt": "Lumen 300 LED Camping Lantern"
+      },
+      {
+        "url": "/images/products/lumen-300-led-camping-lantern.jpg",
+        "alt": "Lumen 300 LED Camping Lantern"
+      },
+      {
+        "url": "/images/products/lumen-300-led-camping-lantern.jpg",
+        "alt": "Lumen 300 LED Camping Lantern"
+      }
+    ],
+    "shortDescription": "300 lumen output with 4 brightness modes",
+    "description": "The Lumen 300 LED Camping Lantern from Alpine & Oak is built for adventurers who refuse to compromise on quality. 300 lumen output with 4 brightness modes. USB-C rechargeable, up to 48hr runtime. Collapsible and water-resistant. Built-in hanging hook. Designed and tested for the demands of the outdoors, it's a reliable addition to any camping lights kit.",
+    "features": [
+      "300 lumen output with 4 brightness modes",
+      "USB-C rechargeable, up to 48hr runtime",
+      "Collapsible and water-resistant",
+      "Built-in hanging hook"
+    ],
+    "specifications": {
+      "Brightness": "300 Lumens",
+      "Battery": "USB-C Rechargeable",
+      "Runtime": "Up to 48 hrs",
+      "Water Resistance": "IPX4"
+    },
+    "inStock": true,
+    "stockCount": 5,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNew": false,
+    "isOnSale": false,
+    "tags": [
+      "camping",
+      "camping lights"
+    ]
+  },
+  {
+    "id": "8",
+    "slug": "glowpath-rechargeable-headlamp",
+    "name": "Glowpath Rechargeable Headlamp",
+    "category": "camping",
+    "subcategory": "Camping Lights",
+    "brand": "Driftwood Outdoors",
+    "price": 2499,
+    "currency": "INR",
+    "rating": 4.3,
+    "reviewCount": 383,
+    "thumbnail": "/images/products/glowpath-rechargeable-headlamp.jpg",
+    "images": [
+      {
+        "url": "/images/products/glowpath-rechargeable-headlamp.jpg",
+        "alt": "Glowpath Rechargeable Headlamp"
+      },
+      {
+        "url": "/images/products/glowpath-rechargeable-headlamp.jpg",
+        "alt": "Glowpath Rechargeable Headlamp"
+      },
+      {
+        "url": "/images/products/glowpath-rechargeable-headlamp.jpg",
+        "alt": "Glowpath Rechargeable Headlamp"
+      }
+    ],
+    "shortDescription": "Motion-sensor mode switching",
+    "description": "The Glowpath Rechargeable Headlamp from Driftwood Outdoors is built for adventurers who refuse to compromise on quality. Motion-sensor mode switching. Adjustable beam angle and red night-vision light. Lightweight 78g design. USB rechargeable battery. Designed and tested for the demands of the outdoors, it's a reliable addition to any camping lights kit.",
+    "features": [
+      "Motion-sensor mode switching",
+      "Adjustable beam angle and red night-vision light",
+      "Lightweight 78g design",
+      "USB rechargeable battery"
+    ],
+    "specifications": {
+      "Brightness": "450 Lumens",
+      "Battery": "USB Rechargeable",
+      "Weight": "78 g",
+      "Water Resistance": "IPX5"
+    },
+    "inStock": true,
+    "stockCount": 12,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNew": false,
+    "isOnSale": false,
+    "tags": [
+      "camping",
+      "camping lights"
+    ]
+  },
+  {
+    "id": "9",
+    "slug": "ember-ridge-2-burner-camp-stove",
+    "name": "Ember Ridge 2-Burner Camp Stove",
+    "category": "camping",
+    "subcategory": "Cooking Equipment",
+    "brand": "TrailForge",
+    "price": 7499,
+    "currency": "INR",
+    "rating": 3.8,
+    "reviewCount": 436,
+    "thumbnail": "/images/products/ember-ridge-2-burner-camp-stove.jpg",
+    "images": [
+      {
+        "url": "/images/products/ember-ridge-2-burner-camp-stove.jpg",
+        "alt": "Ember Ridge 2-Burner Camp Stove"
+      },
+      {
+        "url": "/images/products/ember-ridge-2-burner-camp-stove.jpg",
+        "alt": "Ember Ridge 2-Burner Camp Stove"
+      },
+      {
+        "url": "/images/products/ember-ridge-2-burner-camp-stove.jpg",
+        "alt": "Ember Ridge 2-Burner Camp Stove"
+      }
+    ],
+    "shortDescription": "Dual burners with wind-resistant panels",
+    "description": "The Ember Ridge 2-Burner Camp Stove from TrailForge is built for adventurers who refuse to compromise on quality. Dual burners with wind-resistant panels. Piezo ignition, no matches needed. Compact folding design. Compatible with standard propane canisters. Designed and tested for the demands of the outdoors, it's a reliable addition to any cooking equipment kit.",
+    "features": [
+      "Dual burners with wind-resistant panels",
+      "Piezo ignition, no matches needed",
+      "Compact folding design",
+      "Compatible with standard propane canisters"
+    ],
+    "specifications": {
+      "Output": "20,000 BTU",
+      "Fuel Type": "Propane",
+      "Weight": "4.8 kg"
+    },
+    "inStock": true,
+    "stockCount": 19,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "camping",
+      "cooking equipment"
+    ]
+  },
+  {
+    "id": "10",
+    "slug": "trailfire-cast-iron-cookset",
+    "name": "Trailfire Cast Iron Cookset",
+    "category": "camping",
+    "subcategory": "Cooking Equipment",
+    "brand": "Summit Gear",
+    "price": 5399,
+    "currency": "INR",
+    "rating": 4.7,
+    "reviewCount": 489,
+    "thumbnail": "/images/products/trailfire-cast-iron-cookset.jpg",
+    "images": [
+      {
+        "url": "/images/products/trailfire-cast-iron-cookset.jpg",
+        "alt": "Trailfire Cast Iron Cookset"
+      },
+      {
+        "url": "/images/products/trailfire-cast-iron-cookset.jpg",
+        "alt": "Trailfire Cast Iron Cookset"
+      },
+      {
+        "url": "/images/products/trailfire-cast-iron-cookset.jpg",
+        "alt": "Trailfire Cast Iron Cookset"
+      }
+    ],
+    "shortDescription": "Pre-seasoned cast iron for even heating",
+    "description": "The Trailfire Cast Iron Cookset from Summit Gear is built for adventurers who refuse to compromise on quality. Pre-seasoned cast iron for even heating. Includes skillet, pot, and lid. Nesting design for compact storage. Durable canvas carry bag included. Designed and tested for the demands of the outdoors, it's a reliable addition to any cooking equipment kit.",
+    "features": [
+      "Pre-seasoned cast iron for even heating",
+      "Includes skillet, pot, and lid",
+      "Nesting design for compact storage",
+      "Durable canvas carry bag included"
+    ],
+    "specifications": {
+      "Pieces": "3-Piece Set",
+      "Material": "Cast Iron",
+      "Weight": "3.2 kg"
+    },
+    "inStock": true,
+    "stockCount": 26,
+    "isFeatured": false,
+    "isBestSeller": true,
+    "isNew": false,
+    "isOnSale": false,
+    "tags": [
+      "camping",
+      "cooking equipment"
+    ]
+  },
+  {
+    "id": "11",
+    "slug": "frostbox-45l-hard-cooler",
+    "name": "Frostbox 45L Hard Cooler",
+    "category": "camping",
+    "subcategory": "Coolers",
+    "brand": "Northwoods Co.",
+    "price": 16599,
+    "originalPrice": 19899,
+    "currency": "INR",
+    "rating": 4.2,
+    "reviewCount": 62,
+    "thumbnail": "/images/products/frostbox-45l-hard-cooler.jpg",
+    "images": [
+      {
+        "url": "/images/products/frostbox-45l-hard-cooler.jpg",
+        "alt": "Frostbox 45L Hard Cooler"
+      },
+      {
+        "url": "/images/products/frostbox-45l-hard-cooler.jpg",
+        "alt": "Frostbox 45L Hard Cooler"
+      },
+      {
+        "url": "/images/products/frostbox-45l-hard-cooler.jpg",
+        "alt": "Frostbox 45L Hard Cooler"
+      }
+    ],
+    "shortDescription": "Keeps ice for up to 5 days",
+    "description": "The Frostbox 45L Hard Cooler from Northwoods Co. is built for adventurers who refuse to compromise on quality. Keeps ice for up to 5 days. Rotomolded construction, bear-resistant. Reinforced lid supports up to 180kg. Integrated bottle opener and drain plug. Designed and tested for the demands of the outdoors, it's a reliable addition to any coolers kit.",
+    "features": [
+      "Keeps ice for up to 5 days",
+      "Rotomolded construction, bear-resistant",
+      "Reinforced lid supports up to 180kg",
+      "Integrated bottle opener and drain plug"
+    ],
+    "specifications": {
+      "Capacity": "45 L",
+      "Ice Retention": "5 Days",
+      "Weight": "8.9 kg"
+    },
+    "inStock": true,
+    "stockCount": 33,
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isNew": false,
+    "isOnSale": true,
+    "tags": [
+      "camping",
+      "coolers"
+    ]
+  },
+  {
+    "id": "12",
+    "slug": "chillpeak-soft-cooler-backpack",
+    "name": "Chillpeak Soft Cooler Backpack",
+    "category": "camping",
+    "subcategory": "Coolers",
+    "brand": "Basecamp",
+    "price": 6599,
+    "currency": "INR",
+    "rating": 3.7,
+    "reviewCount": 115,
+    "thumbnail": "/images/products/chillpeak-soft-cooler-backpack.jpg",
+    "images": [
+      {
+        "url": "/images/products/chillpeak-soft-cooler-backpack.jpg",
+        "alt": "Chillpeak Soft Cooler Backpack"
+      },
+      {
+        "url": "/images/products/chillpeak-soft-cooler-backpack.jpg",
+        "alt": "Chillpeak Soft Cooler Backpack"
+      },
+      {
+        "url": "/images/products/chillpeak-soft-cooler-backpack.jpg",
+        "alt": "Chillpeak Soft Cooler Backpack"
+      }
+    ],
+    "shortDescription": "Leak-proof welded seams",
+    "description": "The Chillpeak Soft Cooler Backpack from Basecamp is built for adventurers who refuse to compromise on quality. Leak-proof welded seams. Backpack straps for hands-free carrying. Keeps contents cold up to 24 hours. External mesh pockets. Designed and tested for the demands of the outdoors, it's a reliable addition to any coolers kit.",
+    "features": [
+      "Leak-proof welded seams",
+      "Backpack straps for hands-free carrying",
+      "Keeps contents cold up to 24 hours",
+      "External mesh pockets"
+    ],
+    "specifications": {
+      "Capacity": "24 L / 30 Cans",
+      "Ice Retention": "24 Hours",
+      "Weight": "1.1 kg"
+    },
+    "inStock": false,
+    "stockCount": 0,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNew": false,
+    "isOnSale": false,
+    "tags": [
+      "camping",
+      "coolers"
+    ]
+  },
+  {
+    "id": "13",
+    "slug": "ridgeline-50l-hiking-backpack",
+    "name": "Ridgeline 50L Hiking Backpack",
+    "category": "hiking",
+    "subcategory": "Hiking Backpacks",
+    "brand": "Ridgeline",
+    "price": 12399,
+    "currency": "INR",
+    "rating": 4.6,
+    "reviewCount": 168,
+    "thumbnail": "/images/products/ridgeline-50l-hiking-backpack.jpg",
+    "images": [
+      {
+        "url": "/images/products/ridgeline-50l-hiking-backpack.jpg",
+        "alt": "Ridgeline 50L Hiking Backpack"
+      },
+      {
+        "url": "/images/products/ridgeline-50l-hiking-backpack.jpg",
+        "alt": "Ridgeline 50L Hiking Backpack"
+      },
+      {
+        "url": "/images/products/ridgeline-50l-hiking-backpack.jpg",
+        "alt": "Ridgeline 50L Hiking Backpack"
+      }
+    ],
+    "shortDescription": "Adjustable torso length for custom fit",
+    "description": "The Ridgeline 50L Hiking Backpack from Ridgeline is built for adventurers who refuse to compromise on quality. Adjustable torso length for custom fit. Ventilated back panel reduces sweat. Rain cover included. Multiple compression straps for load control. Designed and tested for the demands of the outdoors, it's a reliable addition to any hiking backpacks kit.",
+    "features": [
+      "Adjustable torso length for custom fit",
+      "Ventilated back panel reduces sweat",
+      "Rain cover included",
+      "Multiple compression straps for load control"
+    ],
+    "specifications": {
+      "Capacity": "50 L",
+      "Weight": "1.9 kg",
+      "Frame": "Internal Aluminum Stay"
+    },
+    "inStock": true,
+    "stockCount": 7,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNew": false,
+    "isOnSale": false,
+    "tags": [
+      "hiking",
+      "hiking backpacks"
+    ]
+  },
+  {
+    "id": "14",
+    "slug": "trailblazer-30l-daypack",
+    "name": "Trailblazer 30L Daypack",
+    "category": "hiking",
+    "subcategory": "Hiking Backpacks",
+    "brand": "Wildpeak",
+    "price": 7099,
+    "currency": "INR",
+    "rating": 4.1,
+    "reviewCount": 221,
+    "thumbnail": "/images/products/trailblazer-30l-daypack.jpg",
+    "images": [
+      {
+        "url": "/images/products/trailblazer-30l-daypack.jpg",
+        "alt": "Trailblazer 30L Daypack"
+      },
+      {
+        "url": "/images/products/trailblazer-30l-daypack.jpg",
+        "alt": "Trailblazer 30L Daypack"
+      },
+      {
+        "url": "/images/products/trailblazer-30l-daypack.jpg",
+        "alt": "Trailblazer 30L Daypack"
+      }
+    ],
+    "shortDescription": "Hydration bladder compatible",
+    "description": "The Trailblazer 30L Daypack from Wildpeak is built for adventurers who refuse to compromise on quality. Hydration bladder compatible. Padded laptop sleeve for commuting. Lightweight ripstop fabric. Adjustable sternum strap. Designed and tested for the demands of the outdoors, it's a reliable addition to any hiking backpacks kit.",
+    "features": [
+      "Hydration bladder compatible",
+      "Padded laptop sleeve for commuting",
+      "Lightweight ripstop fabric",
+      "Adjustable sternum strap"
+    ],
+    "specifications": {
+      "Capacity": "30 L",
+      "Weight": "0.9 kg",
+      "Material": "Ripstop Nylon"
+    },
+    "inStock": true,
+    "stockCount": 14,
+    "isFeatured": false,
+    "isBestSeller": true,
+    "isNew": false,
+    "isOnSale": false,
+    "tags": [
+      "hiking",
+      "hiking backpacks"
+    ]
+  },
+  {
+    "id": "15",
+    "slug": "summit-carbon-trekking-poles",
+    "name": "Summit Carbon Trekking Poles",
+    "category": "hiking",
+    "subcategory": "Trekking Poles",
+    "brand": "Alpine & Oak",
+    "price": 8299,
+    "currency": "INR",
+    "rating": 3.6,
+    "reviewCount": 274,
+    "thumbnail": "/images/products/summit-carbon-trekking-poles.jpg",
+    "images": [
+      {
+        "url": "/images/products/summit-carbon-trekking-poles.jpg",
+        "alt": "Summit Carbon Trekking Poles"
+      },
+      {
+        "url": "/images/products/summit-carbon-trekking-poles.jpg",
+        "alt": "Summit Carbon Trekking Poles"
+      },
+      {
+        "url": "/images/products/summit-carbon-trekking-poles.jpg",
+        "alt": "Summit Carbon Trekking Poles"
+      }
+    ],
+    "shortDescription": "Ultralight carbon fiber shafts",
+    "description": "The Summit Carbon Trekking Poles from Alpine & Oak is built for adventurers who refuse to compromise on quality. Ultralight carbon fiber shafts. Quick-lock adjustable length. Ergonomic cork grips reduce hand fatigue. Interchangeable tips for trail or snow. Designed and tested for the demands of the outdoors, it's a reliable addition to any trekking poles kit.",
+    "features": [
+      "Ultralight carbon fiber shafts",
+      "Quick-lock adjustable length",
+      "Ergonomic cork grips reduce hand fatigue",
+      "Interchangeable tips for trail or snow"
+    ],
+    "specifications": {
+      "Weight": "430 g (pair)",
+      "Length Range": "65-135 cm",
+      "Material": "Carbon Fiber"
+    },
+    "inStock": true,
+    "stockCount": 21,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "hiking",
+      "trekking poles"
+    ]
+  },
+  {
+    "id": "16",
+    "slug": "trailflex-aluminum-trekking-poles",
+    "name": "TrailFlex Aluminum Trekking Poles",
+    "category": "hiking",
+    "subcategory": "Trekking Poles",
+    "brand": "Driftwood Outdoors",
+    "price": 4599,
+    "currency": "INR",
+    "rating": 4.5,
+    "reviewCount": 327,
+    "thumbnail": "/images/products/trailflex-aluminum-trekking-poles.jpg",
+    "images": [
+      {
+        "url": "/images/products/trailflex-aluminum-trekking-poles.jpg",
+        "alt": "TrailFlex Aluminum Trekking Poles"
+      },
+      {
+        "url": "/images/products/trailflex-aluminum-trekking-poles.jpg",
+        "alt": "TrailFlex Aluminum Trekking Poles"
+      },
+      {
+        "url": "/images/products/trailflex-aluminum-trekking-poles.jpg",
+        "alt": "TrailFlex Aluminum Trekking Poles"
+      }
+    ],
+    "shortDescription": "Durable 7075 aluminum construction",
+    "description": "The TrailFlex Aluminum Trekking Poles from Driftwood Outdoors is built for adventurers who refuse to compromise on quality. Durable 7075 aluminum construction. Anti-shock spring system. Foam grip with adjustable wrist strap. Folds compactly for travel. Designed and tested for the demands of the outdoors, it's a reliable addition to any trekking poles kit.",
+    "features": [
+      "Durable 7075 aluminum construction",
+      "Anti-shock spring system",
+      "Foam grip with adjustable wrist strap",
+      "Folds compactly for travel"
+    ],
+    "specifications": {
+      "Weight": "540 g (pair)",
+      "Length Range": "60-130 cm",
+      "Material": "Aluminum"
+    },
+    "inStock": true,
+    "stockCount": 28,
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isNew": false,
+    "isOnSale": false,
+    "tags": [
+      "hiking",
+      "trekking poles"
+    ]
+  },
+  {
+    "id": "17",
+    "slug": "rockhopper-waterproof-hiking-boots",
+    "name": "Rockhopper Waterproof Hiking Boots",
+    "category": "hiking",
+    "subcategory": "Hiking Shoes",
+    "brand": "TrailForge",
+    "price": 11599,
+    "currency": "INR",
+    "rating": 4,
+    "reviewCount": 380,
+    "thumbnail": "/images/products/rockhopper-waterproof-hiking-boots.jpg",
+    "images": [
+      {
+        "url": "/images/products/rockhopper-waterproof-hiking-boots.jpg",
+        "alt": "Rockhopper Waterproof Hiking Boots"
+      },
+      {
+        "url": "/images/products/rockhopper-waterproof-hiking-boots.jpg",
+        "alt": "Rockhopper Waterproof Hiking Boots"
+      },
+      {
+        "url": "/images/products/rockhopper-waterproof-hiking-boots.jpg",
+        "alt": "Rockhopper Waterproof Hiking Boots"
+      }
+    ],
+    "shortDescription": "Waterproof breathable membrane",
+    "description": "The Rockhopper Waterproof Hiking Boots from TrailForge is built for adventurers who refuse to compromise on quality. Waterproof breathable membrane. Vibram outsole for superior traction. Reinforced toe cap and heel. Cushioned EVA midsole. Designed and tested for the demands of the outdoors, it's a reliable addition to any hiking shoes kit.",
+    "features": [
+      "Waterproof breathable membrane",
+      "Vibram outsole for superior traction",
+      "Reinforced toe cap and heel",
+      "Cushioned EVA midsole"
+    ],
+    "specifications": {
+      "Upper Material": "Nubuck Leather",
+      "Waterproofing": "Yes",
+      "Weight": "820 g (pair)"
+    },
+    "inStock": true,
+    "stockCount": 35,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNew": false,
+    "isOnSale": false,
+    "tags": [
+      "hiking",
+      "hiking shoes"
+    ]
+  },
+  {
+    "id": "18",
+    "slug": "trailrunner-lightweight-hiking-shoes",
+    "name": "Trailrunner Lightweight Hiking Shoes",
+    "category": "hiking",
+    "subcategory": "Hiking Shoes",
+    "brand": "Summit Gear",
+    "price": 9099,
+    "originalPrice": 10799,
+    "currency": "INR",
+    "rating": 4.9,
+    "reviewCount": 433,
+    "thumbnail": "/images/products/trailrunner-lightweight-hiking-shoes.jpg",
+    "images": [
+      {
+        "url": "/images/products/trailrunner-lightweight-hiking-shoes.jpg",
+        "alt": "Trailrunner Lightweight Hiking Shoes"
+      },
+      {
+        "url": "/images/products/trailrunner-lightweight-hiking-shoes.jpg",
+        "alt": "Trailrunner Lightweight Hiking Shoes"
+      },
+      {
+        "url": "/images/products/trailrunner-lightweight-hiking-shoes.jpg",
+        "alt": "Trailrunner Lightweight Hiking Shoes"
+      }
+    ],
+    "shortDescription": "Breathable mesh upper",
+    "description": "The Trailrunner Lightweight Hiking Shoes from Summit Gear is built for adventurers who refuse to compromise on quality. Breathable mesh upper. Responsive cushioning for long days. Grippy multi-directional lugs. Quick-lace system. Designed and tested for the demands of the outdoors, it's a reliable addition to any hiking shoes kit.",
+    "features": [
+      "Breathable mesh upper",
+      "Responsive cushioning for long days",
+      "Grippy multi-directional lugs",
+      "Quick-lace system"
+    ],
+    "specifications": {
+      "Upper Material": "Mesh / Synthetic",
+      "Waterproofing": "Water-Resistant",
+      "Weight": "620 g (pair)"
+    },
+    "inStock": true,
+    "stockCount": 42,
+    "isFeatured": false,
+    "isBestSeller": true,
+    "isNew": false,
+    "isOnSale": true,
+    "tags": [
+      "hiking",
+      "hiking shoes"
+    ]
+  },
+  {
+    "id": "19",
+    "slug": "stormshield-rain-jacket",
+    "name": "Stormshield Rain Jacket",
+    "category": "hiking",
+    "subcategory": "Outdoor Clothing",
+    "brand": "Northwoods Co.",
+    "price": 10799,
+    "currency": "INR",
+    "rating": 4.4,
+    "reviewCount": 486,
+    "thumbnail": "/images/products/stormshield-rain-jacket.jpg",
+    "images": [
+      {
+        "url": "/images/products/stormshield-rain-jacket.jpg",
+        "alt": "Stormshield Rain Jacket"
+      },
+      {
+        "url": "/images/products/stormshield-rain-jacket.jpg",
+        "alt": "Stormshield Rain Jacket"
+      },
+      {
+        "url": "/images/products/stormshield-rain-jacket.jpg",
+        "alt": "Stormshield Rain Jacket"
+      }
+    ],
+    "shortDescription": "Fully seam-sealed waterproof shell",
+    "description": "The Stormshield Rain Jacket from Northwoods Co. is built for adventurers who refuse to compromise on quality. Fully seam-sealed waterproof shell. Pit zips for temperature regulation. Adjustable storm hood. Packs into its own pocket. Designed and tested for the demands of the outdoors, it's a reliable addition to any outdoor clothing kit.",
+    "features": [
+      "Fully seam-sealed waterproof shell",
+      "Pit zips for temperature regulation",
+      "Adjustable storm hood",
+      "Packs into its own pocket"
+    ],
+    "specifications": {
+      "Waterproof Rating": "20,000mm",
+      "Weight": "340 g",
+      "Material": "3-Layer Ripstop"
+    },
+    "inStock": true,
+    "stockCount": 9,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNew": false,
+    "isOnSale": false,
+    "tags": [
+      "hiking",
+      "outdoor clothing"
+    ]
+  },
+  {
+    "id": "20",
+    "slug": "alpine-fleece-pullover",
+    "name": "Alpine Fleece Pullover",
+    "category": "hiking",
+    "subcategory": "Outdoor Clothing",
+    "brand": "Basecamp",
+    "price": 5399,
+    "currency": "INR",
+    "rating": 3.9,
+    "reviewCount": 59,
+    "thumbnail": "/images/products/alpine-fleece-pullover.jpg",
+    "images": [
+      {
+        "url": "/images/products/alpine-fleece-pullover.jpg",
+        "alt": "Alpine Fleece Pullover"
+      },
+      {
+        "url": "/images/products/alpine-fleece-pullover.jpg",
+        "alt": "Alpine Fleece Pullover"
+      },
+      {
+        "url": "/images/products/alpine-fleece-pullover.jpg",
+        "alt": "Alpine Fleece Pullover"
+      }
+    ],
+    "shortDescription": "Brushed fleece for warmth without bulk",
+    "description": "The Alpine Fleece Pullover from Basecamp is built for adventurers who refuse to compromise on quality. Brushed fleece for warmth without bulk. Quarter-zip collar. Thumbholes for added coverage. Quick-drying fabric. Designed and tested for the demands of the outdoors, it's a reliable addition to any outdoor clothing kit.",
+    "features": [
+      "Brushed fleece for warmth without bulk",
+      "Quarter-zip collar",
+      "Thumbholes for added coverage",
+      "Quick-drying fabric"
+    ],
+    "specifications": {
+      "Material": "Recycled Polyester Fleece",
+      "Fit": "Regular"
+    },
+    "inStock": true,
+    "stockCount": 16,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNew": false,
+    "isOnSale": false,
+    "tags": [
+      "hiking",
+      "outdoor clothing"
+    ]
+  },
+  {
+    "id": "21",
+    "slug": "ridgeback-convertible-hiking-pants",
+    "name": "Ridgeback Convertible Hiking Pants",
+    "category": "hiking",
+    "subcategory": "Outdoor Clothing",
+    "brand": "Ridgeline",
+    "price": 6199,
+    "currency": "INR",
+    "rating": 4.8,
+    "reviewCount": 112,
+    "thumbnail": "/images/products/ridgeback-convertible-hiking-pants.jpg",
+    "images": [
+      {
+        "url": "/images/products/ridgeback-convertible-hiking-pants.jpg",
+        "alt": "Ridgeback Convertible Hiking Pants"
+      },
+      {
+        "url": "/images/products/ridgeback-convertible-hiking-pants.jpg",
+        "alt": "Ridgeback Convertible Hiking Pants"
+      },
+      {
+        "url": "/images/products/ridgeback-convertible-hiking-pants.jpg",
+        "alt": "Ridgeback Convertible Hiking Pants"
+      }
+    ],
+    "shortDescription": "Zip-off legs convert to shorts",
+    "description": "The Ridgeback Convertible Hiking Pants from Ridgeline is built for adventurers who refuse to compromise on quality. Zip-off legs convert to shorts. UPF 50+ sun protection. Water-resistant DWR finish. Multiple secure pockets. Designed and tested for the demands of the outdoors, it's a reliable addition to any outdoor clothing kit.",
+    "features": [
+      "Zip-off legs convert to shorts",
+      "UPF 50+ sun protection",
+      "Water-resistant DWR finish",
+      "Multiple secure pockets"
+    ],
+    "specifications": {
+      "Material": "Nylon Ripstop",
+      "Fit": "Regular",
+      "UV Protection": "UPF 50+"
+    },
+    "inStock": true,
+    "stockCount": 23,
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "hiking",
+      "outdoor clothing"
+    ]
+  },
+  {
+    "id": "22",
+    "slug": "sunguard-wide-brim-hiking-hat",
+    "name": "SunGuard Wide Brim Hiking Hat",
+    "category": "hiking",
+    "subcategory": "Outdoor Clothing",
+    "brand": "Wildpeak",
+    "price": 2499,
+    "currency": "INR",
+    "rating": 4.3,
+    "reviewCount": 165,
+    "thumbnail": "/images/products/sunguard-wide-brim-hiking-hat.jpg",
+    "images": [
+      {
+        "url": "/images/products/sunguard-wide-brim-hiking-hat.jpg",
+        "alt": "SunGuard Wide Brim Hiking Hat"
+      },
+      {
+        "url": "/images/products/sunguard-wide-brim-hiking-hat.jpg",
+        "alt": "SunGuard Wide Brim Hiking Hat"
+      },
+      {
+        "url": "/images/products/sunguard-wide-brim-hiking-hat.jpg",
+        "alt": "SunGuard Wide Brim Hiking Hat"
+      }
+    ],
+    "shortDescription": "UPF 50+ protection",
+    "description": "The SunGuard Wide Brim Hiking Hat from Wildpeak is built for adventurers who refuse to compromise on quality. UPF 50+ protection. Adjustable chin strap. Breathable mesh side panels. Packable and crushable. Designed and tested for the demands of the outdoors, it's a reliable addition to any outdoor clothing kit.",
+    "features": [
+      "UPF 50+ protection",
+      "Adjustable chin strap",
+      "Breathable mesh side panels",
+      "Packable and crushable"
+    ],
+    "specifications": {
+      "Material": "Nylon / Mesh",
+      "UV Protection": "UPF 50+"
+    },
+    "inStock": true,
+    "stockCount": 30,
+    "isFeatured": false,
+    "isBestSeller": true,
+    "isNew": false,
+    "isOnSale": false,
+    "tags": [
+      "hiking",
+      "outdoor clothing"
+    ]
+  },
+  {
+    "id": "23",
+    "slug": "riverdrift-10ft-recreational-kayak",
+    "name": "Riverdrift 10ft Recreational Kayak",
+    "category": "boating",
+    "subcategory": "Kayaks",
+    "brand": "Alpine & Oak",
+    "price": 37299,
+    "currency": "INR",
+    "rating": 3.8,
+    "reviewCount": 218,
+    "thumbnail": "/images/products/riverdrift-10ft-recreational-kayak.jpg",
+    "images": [
+      {
+        "url": "/images/products/riverdrift-10ft-recreational-kayak.jpg",
+        "alt": "Riverdrift 10ft Recreational Kayak"
+      },
+      {
+        "url": "/images/products/riverdrift-10ft-recreational-kayak.jpg",
+        "alt": "Riverdrift 10ft Recreational Kayak"
+      },
+      {
+        "url": "/images/products/riverdrift-10ft-recreational-kayak.jpg",
+        "alt": "Riverdrift 10ft Recreational Kayak"
+      }
+    ],
+    "shortDescription": "Stable tri-hull design for calm waters",
+    "description": "The Riverdrift 10ft Recreational Kayak from Alpine & Oak is built for adventurers who refuse to compromise on quality. Stable tri-hull design for calm waters. Comfortable adjustable padded seat. Multiple footrest positions. Built-in carry handles. Designed and tested for the demands of the outdoors, it's a reliable addition to any kayaks kit.",
+    "features": [
+      "Stable tri-hull design for calm waters",
+      "Comfortable adjustable padded seat",
+      "Multiple footrest positions",
+      "Built-in carry handles"
+    ],
+    "specifications": {
+      "Length": "3.05 m",
+      "Weight Capacity": "113 kg",
+      "Material": "High-Density Polyethylene"
+    },
+    "inStock": false,
+    "stockCount": 0,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNew": false,
+    "isOnSale": false,
+    "tags": [
+      "boating",
+      "kayaks"
+    ]
+  },
+  {
+    "id": "24",
+    "slug": "searunner-tandem-touring-kayak",
+    "name": "Searunner Tandem Touring Kayak",
+    "category": "boating",
+    "subcategory": "Kayaks",
+    "brand": "Driftwood Outdoors",
+    "price": 58099,
+    "originalPrice": 66399,
+    "currency": "INR",
+    "rating": 4.7,
+    "reviewCount": 271,
+    "thumbnail": "/images/products/searunner-tandem-touring-kayak.jpg",
+    "images": [
+      {
+        "url": "/images/products/searunner-tandem-touring-kayak.jpg",
+        "alt": "Searunner Tandem Touring Kayak"
+      },
+      {
+        "url": "/images/products/searunner-tandem-touring-kayak.jpg",
+        "alt": "Searunner Tandem Touring Kayak"
+      },
+      {
+        "url": "/images/products/searunner-tandem-touring-kayak.jpg",
+        "alt": "Searunner Tandem Touring Kayak"
+      }
+    ],
+    "shortDescription": "Two-person cockpit with adjustable seats",
+    "description": "The Searunner Tandem Touring Kayak from Driftwood Outdoors is built for adventurers who refuse to compromise on quality. Two-person cockpit with adjustable seats. Tracking skeg for straight-line paddling. Bow and stern storage hatches. Reinforced hull for durability. Designed and tested for the demands of the outdoors, it's a reliable addition to any kayaks kit.",
+    "features": [
+      "Two-person cockpit with adjustable seats",
+      "Tracking skeg for straight-line paddling",
+      "Bow and stern storage hatches",
+      "Reinforced hull for durability"
+    ],
+    "specifications": {
+      "Length": "4.3 m",
+      "Weight Capacity": "204 kg",
+      "Material": "Rotomolded Polyethylene"
+    },
+    "inStock": true,
+    "stockCount": 4,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNew": false,
+    "isOnSale": true,
+    "tags": [
+      "boating",
+      "kayaks"
+    ]
+  },
+  {
+    "id": "25",
+    "slug": "northwoods-3-person-canoe",
+    "name": "Northwoods 3-Person Canoe",
+    "category": "boating",
+    "subcategory": "Canoes",
+    "brand": "TrailForge",
+    "price": 74699,
+    "currency": "INR",
+    "rating": 4.2,
+    "reviewCount": 324,
+    "thumbnail": "/images/products/northwoods-3-person-canoe.jpg",
+    "images": [
+      {
+        "url": "/images/products/northwoods-3-person-canoe.jpg",
+        "alt": "Northwoods 3-Person Canoe"
+      },
+      {
+        "url": "/images/products/northwoods-3-person-canoe.jpg",
+        "alt": "Northwoods 3-Person Canoe"
+      },
+      {
+        "url": "/images/products/northwoods-3-person-canoe.jpg",
+        "alt": "Northwoods 3-Person Canoe"
+      }
+    ],
+    "shortDescription": "Spacious layout for family trips",
+    "description": "The Northwoods 3-Person Canoe from TrailForge is built for adventurers who refuse to compromise on quality. Spacious layout for family trips. Aluminum gunwales for structural strength. Molded-in keel improves tracking. Includes yoke and seats. Designed and tested for the demands of the outdoors, it's a reliable addition to any canoes kit.",
+    "features": [
+      "Spacious layout for family trips",
+      "Aluminum gunwales for structural strength",
+      "Molded-in keel improves tracking",
+      "Includes yoke and seats"
+    ],
+    "specifications": {
+      "Length": "4.9 m",
+      "Weight Capacity": "340 kg",
+      "Material": "Three-Layer Polyethylene"
+    },
+    "inStock": true,
+    "stockCount": 11,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNew": false,
+    "isOnSale": false,
+    "tags": [
+      "boating",
+      "canoes"
+    ]
+  },
+  {
+    "id": "26",
+    "slug": "portage-lite-solo-canoe",
+    "name": "Portage Lite Solo Canoe",
+    "category": "boating",
+    "subcategory": "Canoes",
+    "brand": "Summit Gear",
+    "price": 53899,
+    "currency": "INR",
+    "rating": 3.7,
+    "reviewCount": 377,
+    "thumbnail": "/images/products/portage-lite-solo-canoe.jpg",
+    "images": [
+      {
+        "url": "/images/products/portage-lite-solo-canoe.jpg",
+        "alt": "Portage Lite Solo Canoe"
+      },
+      {
+        "url": "/images/products/portage-lite-solo-canoe.jpg",
+        "alt": "Portage Lite Solo Canoe"
+      },
+      {
+        "url": "/images/products/portage-lite-solo-canoe.jpg",
+        "alt": "Portage Lite Solo Canoe"
+      }
+    ],
+    "shortDescription": "Lightweight solo design for easy portaging",
+    "description": "The Portage Lite Solo Canoe from Summit Gear is built for adventurers who refuse to compromise on quality. Lightweight solo design for easy portaging. Responsive hull for maneuverability. Contoured seat with back support. Carrying yoke included. Designed and tested for the demands of the outdoors, it's a reliable addition to any canoes kit.",
+    "features": [
+      "Lightweight solo design for easy portaging",
+      "Responsive hull for maneuverability",
+      "Contoured seat with back support",
+      "Carrying yoke included"
+    ],
+    "specifications": {
+      "Length": "3.8 m",
+      "Weight Capacity": "136 kg",
+      "Material": "Kevlar-Reinforced Composite"
+    },
+    "inStock": true,
+    "stockCount": 18,
+    "isFeatured": true,
+    "isBestSeller": true,
+    "isNew": false,
+    "isOnSale": false,
+    "tags": [
+      "boating",
+      "canoes"
+    ]
+  },
+  {
+    "id": "27",
+    "slug": "paddleforce-adjustable-kayak-paddle",
+    "name": "Paddleforce Adjustable Kayak Paddle",
+    "category": "boating",
+    "subcategory": "Boating Equipment",
+    "brand": "Northwoods Co.",
+    "price": 5399,
+    "currency": "INR",
+    "rating": 4.6,
+    "reviewCount": 430,
+    "thumbnail": "/images/products/paddleforce-adjustable-kayak-paddle.jpg",
+    "images": [
+      {
+        "url": "/images/products/paddleforce-adjustable-kayak-paddle.jpg",
+        "alt": "Paddleforce Adjustable Kayak Paddle"
+      },
+      {
+        "url": "/images/products/paddleforce-adjustable-kayak-paddle.jpg",
+        "alt": "Paddleforce Adjustable Kayak Paddle"
+      },
+      {
+        "url": "/images/products/paddleforce-adjustable-kayak-paddle.jpg",
+        "alt": "Paddleforce Adjustable Kayak Paddle"
+      }
+    ],
+    "shortDescription": "Adjustable length and feather angle",
+    "description": "The Paddleforce Adjustable Kayak Paddle from Northwoods Co. is built for adventurers who refuse to compromise on quality. Adjustable length and feather angle. Lightweight fiberglass shaft. Asymmetric blades for efficient strokes. Drip rings keep hands dry. Designed and tested for the demands of the outdoors, it's a reliable addition to any boating equipment kit.",
+    "features": [
+      "Adjustable length and feather angle",
+      "Lightweight fiberglass shaft",
+      "Asymmetric blades for efficient strokes",
+      "Drip rings keep hands dry"
+    ],
+    "specifications": {
+      "Length Range": "220-240 cm",
+      "Weight": "0.9 kg",
+      "Material": "Fiberglass"
+    },
+    "inStock": true,
+    "stockCount": 25,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "boating",
+      "boating equipment"
+    ]
+  },
+  {
+    "id": "28",
+    "slug": "floatguard-coast-guard-approved-life-vest",
+    "name": "Floatguard Coast Guard-Approved Life Vest",
+    "category": "boating",
+    "subcategory": "Boating Equipment",
+    "brand": "Basecamp",
+    "price": 4599,
+    "currency": "INR",
+    "rating": 4.1,
+    "reviewCount": 483,
+    "thumbnail": "/images/products/floatguard-coast-guard-approved-life-vest.jpg",
+    "images": [
+      {
+        "url": "/images/products/floatguard-coast-guard-approved-life-vest.jpg",
+        "alt": "Floatguard Coast Guard-Approved Life Vest"
+      },
+      {
+        "url": "/images/products/floatguard-coast-guard-approved-life-vest.jpg",
+        "alt": "Floatguard Coast Guard-Approved Life Vest"
+      },
+      {
+        "url": "/images/products/floatguard-coast-guard-approved-life-vest.jpg",
+        "alt": "Floatguard Coast Guard-Approved Life Vest"
+      }
+    ],
+    "shortDescription": "Coast Guard approved Type III flotation",
+    "description": "The Floatguard Coast Guard-Approved Life Vest from Basecamp is built for adventurers who refuse to compromise on quality. Coast Guard approved Type III flotation. Adjustable side straps for secure fit. Multiple pockets for small gear. High-visibility color panels. Designed and tested for the demands of the outdoors, it's a reliable addition to any boating equipment kit.",
+    "features": [
+      "Coast Guard approved Type III flotation",
+      "Adjustable side straps for secure fit",
+      "Multiple pockets for small gear",
+      "High-visibility color panels"
+    ],
+    "specifications": {
+      "Buoyancy": "Type III",
+      "Sizes": "S-XXL",
+      "Material": "Nylon Shell / PVC Foam"
+    },
+    "inStock": true,
+    "stockCount": 32,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNew": false,
+    "isOnSale": false,
+    "tags": [
+      "boating",
+      "boating equipment"
+    ]
+  },
+  {
+    "id": "29",
+    "slug": "dockline-marine-rope-kit",
+    "name": "Dockline Marine Rope Kit",
+    "category": "boating",
+    "subcategory": "Boating Equipment",
+    "brand": "Ridgeline",
+    "price": 3299,
+    "currency": "INR",
+    "rating": 3.6,
+    "reviewCount": 56,
+    "thumbnail": "/images/products/dockline-marine-rope-kit.jpg",
+    "images": [
+      {
+        "url": "/images/products/dockline-marine-rope-kit.jpg",
+        "alt": "Dockline Marine Rope Kit"
+      },
+      {
+        "url": "/images/products/dockline-marine-rope-kit.jpg",
+        "alt": "Dockline Marine Rope Kit"
+      },
+      {
+        "url": "/images/products/dockline-marine-rope-kit.jpg",
+        "alt": "Dockline Marine Rope Kit"
+      }
+    ],
+    "shortDescription": "UV-resistant double-braided rope",
+    "description": "The Dockline Marine Rope Kit from Ridgeline is built for adventurers who refuse to compromise on quality. UV-resistant double-braided rope. Set of 2 dock lines with spliced loops. High abrasion resistance. Soft hand feel for easy handling. Designed and tested for the demands of the outdoors, it's a reliable addition to any boating equipment kit.",
+    "features": [
+      "UV-resistant double-braided rope",
+      "Set of 2 dock lines with spliced loops",
+      "High abrasion resistance",
+      "Soft hand feel for easy handling"
+    ],
+    "specifications": {
+      "Length": "2 x 4.5 m",
+      "Diameter": "12 mm",
+      "Material": "Nylon"
+    },
+    "inStock": true,
+    "stockCount": 39,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNew": false,
+    "isOnSale": false,
+    "tags": [
+      "boating",
+      "boating equipment"
+    ]
+  },
+  {
+    "id": "30",
+    "slug": "anchorpoint-folding-boat-anchor",
+    "name": "Anchorpoint Folding Boat Anchor",
+    "category": "boating",
+    "subcategory": "Boating Equipment",
+    "brand": "Wildpeak",
+    "price": 3699,
+    "currency": "INR",
+    "rating": 4.5,
+    "reviewCount": 109,
+    "thumbnail": "/images/products/anchorpoint-folding-boat-anchor.jpg",
+    "images": [
+      {
+        "url": "/images/products/anchorpoint-folding-boat-anchor.jpg",
+        "alt": "Anchorpoint Folding Boat Anchor"
+      },
+      {
+        "url": "/images/products/anchorpoint-folding-boat-anchor.jpg",
+        "alt": "Anchorpoint Folding Boat Anchor"
+      },
+      {
+        "url": "/images/products/anchorpoint-folding-boat-anchor.jpg",
+        "alt": "Anchorpoint Folding Boat Anchor"
+      }
+    ],
+    "shortDescription": "Folding fluke design for compact storage",
+    "description": "The Anchorpoint Folding Boat Anchor from Wildpeak is built for adventurers who refuse to compromise on quality. Folding fluke design for compact storage. Vinyl coating prevents deck scratches. Includes anchor line and float. Suitable for kayaks and small boats. Designed and tested for the demands of the outdoors, it's a reliable addition to any boating equipment kit.",
+    "features": [
+      "Folding fluke design for compact storage",
+      "Vinyl coating prevents deck scratches",
+      "Includes anchor line and float",
+      "Suitable for kayaks and small boats"
+    ],
+    "specifications": {
+      "Weight": "1.5 kg",
+      "Material": "Galvanized Steel"
+    },
+    "inStock": true,
+    "stockCount": 6,
+    "isFeatured": false,
+    "isBestSeller": true,
+    "isNew": false,
+    "isOnSale": false,
+    "tags": [
+      "boating",
+      "boating equipment"
+    ]
+  },
+  {
+    "id": "31",
+    "slug": "streamcast-spinning-rod-reel-combo",
+    "name": "Streamcast Spinning Rod & Reel Combo",
+    "category": "fishing",
+    "subcategory": "Fishing Gear",
+    "brand": "Alpine & Oak",
+    "price": 7499,
+    "currency": "INR",
+    "rating": 4,
+    "reviewCount": 162,
+    "thumbnail": "/images/products/streamcast-spinning-rod-reel-combo.jpg",
+    "images": [
+      {
+        "url": "/images/products/streamcast-spinning-rod-reel-combo.jpg",
+        "alt": "Streamcast Spinning Rod & Reel Combo"
+      },
+      {
+        "url": "/images/products/streamcast-spinning-rod-reel-combo.jpg",
+        "alt": "Streamcast Spinning Rod & Reel Combo"
+      },
+      {
+        "url": "/images/products/streamcast-spinning-rod-reel-combo.jpg",
+        "alt": "Streamcast Spinning Rod & Reel Combo"
+      }
+    ],
+    "shortDescription": "Sensitive graphite composite rod blank",
+    "description": "The Streamcast Spinning Rod & Reel Combo from Alpine & Oak is built for adventurers who refuse to compromise on quality. Sensitive graphite composite rod blank. Smooth 5-bearing spinning reel. Corrosion-resistant guides. Comfortable EVA foam handle. Designed and tested for the demands of the outdoors, it's a reliable addition to any fishing gear kit.",
+    "features": [
+      "Sensitive graphite composite rod blank",
+      "Smooth 5-bearing spinning reel",
+      "Corrosion-resistant guides",
+      "Comfortable EVA foam handle"
+    ],
+    "specifications": {
+      "Rod Length": "2.1 m",
+      "Reel Type": "Spinning",
+      "Line Weight": "4-10 kg"
+    },
+    "inStock": true,
+    "stockCount": 13,
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isNew": false,
+    "isOnSale": false,
+    "tags": [
+      "fishing",
+      "fishing gear"
+    ]
+  },
+  {
+    "id": "32",
+    "slug": "baitwell-tackle-box-pro",
+    "name": "Baitwell Tackle Box Pro",
+    "category": "fishing",
+    "subcategory": "Fishing Gear",
+    "brand": "Driftwood Outdoors",
+    "price": 2899,
+    "currency": "INR",
+    "rating": 4.9,
+    "reviewCount": 215,
+    "thumbnail": "/images/products/baitwell-tackle-box-pro.jpg",
+    "images": [
+      {
+        "url": "/images/products/baitwell-tackle-box-pro.jpg",
+        "alt": "Baitwell Tackle Box Pro"
+      },
+      {
+        "url": "/images/products/baitwell-tackle-box-pro.jpg",
+        "alt": "Baitwell Tackle Box Pro"
+      },
+      {
+        "url": "/images/products/baitwell-tackle-box-pro.jpg",
+        "alt": "Baitwell Tackle Box Pro"
+      }
+    ],
+    "shortDescription": "Removable trays with adjustable dividers",
+    "description": "The Baitwell Tackle Box Pro from Driftwood Outdoors is built for adventurers who refuse to compromise on quality. Removable trays with adjustable dividers. Waterproof seal keeps tackle dry. Heavy-duty locking latches. Comfortable top carry handle. Designed and tested for the demands of the outdoors, it's a reliable addition to any fishing gear kit.",
+    "features": [
+      "Removable trays with adjustable dividers",
+      "Waterproof seal keeps tackle dry",
+      "Heavy-duty locking latches",
+      "Comfortable top carry handle"
+    ],
+    "specifications": {
+      "Trays": "4 Removable",
+      "Dimensions": "36 x 20 x 18 cm"
+    },
+    "inStock": true,
+    "stockCount": 20,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNew": false,
+    "isOnSale": false,
+    "tags": [
+      "fishing",
+      "fishing gear"
+    ]
+  },
+  {
+    "id": "33",
+    "slug": "rivermist-landing-net",
+    "name": "Rivermist Landing Net",
+    "category": "fishing",
+    "subcategory": "Fishing Gear",
+    "brand": "TrailForge",
+    "price": 2299,
+    "currency": "INR",
+    "rating": 4.4,
+    "reviewCount": 268,
+    "thumbnail": "/images/products/rivermist-landing-net.jpg",
+    "images": [
+      {
+        "url": "/images/products/rivermist-landing-net.jpg",
+        "alt": "Rivermist Landing Net"
+      },
+      {
+        "url": "/images/products/rivermist-landing-net.jpg",
+        "alt": "Rivermist Landing Net"
+      },
+      {
+        "url": "/images/products/rivermist-landing-net.jpg",
+        "alt": "Rivermist Landing Net"
+      }
+    ],
+    "shortDescription": "Rubber-coated mesh protects fish",
+    "description": "The Rivermist Landing Net from TrailForge is built for adventurers who refuse to compromise on quality. Rubber-coated mesh protects fish. Telescoping handle for easy storage. Lightweight aluminum frame. Wrist strap included. Designed and tested for the demands of the outdoors, it's a reliable addition to any fishing gear kit.",
+    "features": [
+      "Rubber-coated mesh protects fish",
+      "Telescoping handle for easy storage",
+      "Lightweight aluminum frame",
+      "Wrist strap included"
+    ],
+    "specifications": {
+      "Handle Length": "60-120 cm",
+      "Hoop Size": "45 x 40 cm"
+    },
+    "inStock": true,
+    "stockCount": 27,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "fishing",
+      "fishing gear"
+    ]
+  },
+  {
+    "id": "34",
+    "slug": "anglerpro-breathable-fishing-waders",
+    "name": "Anglerpro Breathable Fishing Waders",
+    "category": "fishing",
+    "subcategory": "Fishing Gear",
+    "brand": "Summit Gear",
+    "price": 10799,
+    "originalPrice": 12399,
+    "currency": "INR",
+    "rating": 3.9,
+    "reviewCount": 321,
+    "thumbnail": "/images/products/anglerpro-breathable-fishing-waders.jpg",
+    "images": [
+      {
+        "url": "/images/products/anglerpro-breathable-fishing-waders.jpg",
+        "alt": "Anglerpro Breathable Fishing Waders"
+      },
+      {
+        "url": "/images/products/anglerpro-breathable-fishing-waders.jpg",
+        "alt": "Anglerpro Breathable Fishing Waders"
+      },
+      {
+        "url": "/images/products/anglerpro-breathable-fishing-waders.jpg",
+        "alt": "Anglerpro Breathable Fishing Waders"
+      }
+    ],
+    "shortDescription": "Breathable 3-layer waterproof fabric",
+    "description": "The Anglerpro Breathable Fishing Waders from Summit Gear is built for adventurers who refuse to compromise on quality. Breathable 3-layer waterproof fabric. Adjustable suspenders for custom fit. Reinforced knees and seat. Built-in wading belt. Designed and tested for the demands of the outdoors, it's a reliable addition to any fishing gear kit.",
+    "features": [
+      "Breathable 3-layer waterproof fabric",
+      "Adjustable suspenders for custom fit",
+      "Reinforced knees and seat",
+      "Built-in wading belt"
+    ],
+    "specifications": {
+      "Material": "3-Layer Nylon",
+      "Sizes": "M-XXL"
+    },
+    "inStock": false,
+    "stockCount": 0,
+    "isFeatured": false,
+    "isBestSeller": true,
+    "isNew": false,
+    "isOnSale": true,
+    "tags": [
+      "fishing",
+      "fishing gear"
+    ]
+  },
+  {
+    "id": "35",
+    "slug": "castline-braided-fishing-line",
+    "name": "Castline Braided Fishing Line",
+    "category": "fishing",
+    "subcategory": "Fishing Gear",
+    "brand": "Northwoods Co.",
+    "price": 1699,
+    "currency": "INR",
+    "rating": 4.8,
+    "reviewCount": 374,
+    "thumbnail": "/images/products/castline-braided-fishing-line.jpg",
+    "images": [
+      {
+        "url": "/images/products/castline-braided-fishing-line.jpg",
+        "alt": "Castline Braided Fishing Line"
+      },
+      {
+        "url": "/images/products/castline-braided-fishing-line.jpg",
+        "alt": "Castline Braided Fishing Line"
+      },
+      {
+        "url": "/images/products/castline-braided-fishing-line.jpg",
+        "alt": "Castline Braided Fishing Line"
+      }
+    ],
+    "shortDescription": "High abrasion resistance",
+    "description": "The Castline Braided Fishing Line from Northwoods Co. is built for adventurers who refuse to compromise on quality. High abrasion resistance. Zero stretch for improved sensitivity. Ultra-thin diameter for longer casts. 300m spool. Designed and tested for the demands of the outdoors, it's a reliable addition to any fishing gear kit.",
+    "features": [
+      "High abrasion resistance",
+      "Zero stretch for improved sensitivity",
+      "Ultra-thin diameter for longer casts",
+      "300m spool"
+    ],
+    "specifications": {
+      "Length": "300 m",
+      "Test": "9 kg",
+      "Material": "PE Braided"
+    },
+    "inStock": true,
+    "stockCount": 41,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNew": false,
+    "isOnSale": false,
+    "tags": [
+      "fishing",
+      "fishing gear"
+    ]
+  },
+  {
+    "id": "36",
+    "slug": "trailguard-72-hour-survival-kit",
+    "name": "Trailguard 72-Hour Survival Kit",
+    "category": "accessories",
+    "subcategory": "Survival Kits",
+    "brand": "Basecamp",
+    "price": 6599,
+    "currency": "INR",
+    "rating": 4.3,
+    "reviewCount": 427,
+    "thumbnail": "/images/products/trailguard-72-hour-survival-kit.jpg",
+    "images": [
+      {
+        "url": "/images/products/trailguard-72-hour-survival-kit.jpg",
+        "alt": "Trailguard 72-Hour Survival Kit"
+      },
+      {
+        "url": "/images/products/trailguard-72-hour-survival-kit.jpg",
+        "alt": "Trailguard 72-Hour Survival Kit"
+      },
+      {
+        "url": "/images/products/trailguard-72-hour-survival-kit.jpg",
+        "alt": "Trailguard 72-Hour Survival Kit"
+      }
+    ],
+    "shortDescription": "Complete emergency kit for up to 2 people",
+    "description": "The Trailguard 72-Hour Survival Kit from Basecamp is built for adventurers who refuse to compromise on quality. Complete emergency kit for up to 2 people. Includes fire starter, first aid, and tools. Compact water-resistant carry pouch. Emergency mylar blankets included. Designed and tested for the demands of the outdoors, it's a reliable addition to any survival kits kit.",
+    "features": [
+      "Complete emergency kit for up to 2 people",
+      "Includes fire starter, first aid, and tools",
+      "Compact water-resistant carry pouch",
+      "Emergency mylar blankets included"
+    ],
+    "specifications": {
+      "Coverage": "72 Hours / 2 People",
+      "Weight": "1.3 kg",
+      "Items Included": "32 Pieces"
+    },
+    "inStock": true,
+    "stockCount": 8,
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isNew": false,
+    "isOnSale": false,
+    "tags": [
+      "accessories",
+      "survival kits"
+    ]
+  },
+  {
+    "id": "37",
+    "slug": "pathfinder-handheld-gps-navigator",
+    "name": "Pathfinder Handheld GPS Navigator",
+    "category": "accessories",
+    "subcategory": "GPS Devices",
+    "brand": "Ridgeline",
+    "price": 20699,
+    "currency": "INR",
+    "rating": 3.8,
+    "reviewCount": 480,
+    "thumbnail": "/images/products/pathfinder-handheld-gps-navigator.jpg",
+    "images": [
+      {
+        "url": "/images/products/pathfinder-handheld-gps-navigator.jpg",
+        "alt": "Pathfinder Handheld GPS Navigator"
+      },
+      {
+        "url": "/images/products/pathfinder-handheld-gps-navigator.jpg",
+        "alt": "Pathfinder Handheld GPS Navigator"
+      },
+      {
+        "url": "/images/products/pathfinder-handheld-gps-navigator.jpg",
+        "alt": "Pathfinder Handheld GPS Navigator"
+      }
+    ],
+    "shortDescription": "Preloaded topographic maps",
+    "description": "The Pathfinder Handheld GPS Navigator from Ridgeline is built for adventurers who refuse to compromise on quality. Preloaded topographic maps. Rugged waterproof housing. 20-hour battery life. Built-in digital compass and barometric altimeter. Designed and tested for the demands of the outdoors, it's a reliable addition to any gps devices kit.",
+    "features": [
+      "Preloaded topographic maps",
+      "Rugged waterproof housing",
+      "20-hour battery life",
+      "Built-in digital compass and barometric altimeter"
+    ],
+    "specifications": {
+      "Display": "2.6\" Sunlight-Readable",
+      "Battery Life": "20 Hours",
+      "Water Rating": "IPX7"
+    },
+    "inStock": true,
+    "stockCount": 15,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNew": false,
+    "isOnSale": false,
+    "tags": [
+      "accessories",
+      "gps devices"
+    ]
+  },
+  {
+    "id": "38",
+    "slug": "voltpeak-300w-portable-power-station",
+    "name": "Voltpeak 300W Portable Power Station",
+    "category": "accessories",
+    "subcategory": "Portable Power Stations",
+    "brand": "Wildpeak",
+    "price": 23199,
+    "originalPrice": 27399,
+    "currency": "INR",
+    "rating": 4.7,
+    "reviewCount": 53,
+    "thumbnail": "/images/products/voltpeak-300w-portable-power-station.jpg",
+    "images": [
+      {
+        "url": "/images/products/voltpeak-300w-portable-power-station.jpg",
+        "alt": "Voltpeak 300W Portable Power Station"
+      },
+      {
+        "url": "/images/products/voltpeak-300w-portable-power-station.jpg",
+        "alt": "Voltpeak 300W Portable Power Station"
+      },
+      {
+        "url": "/images/products/voltpeak-300w-portable-power-station.jpg",
+        "alt": "Voltpeak 300W Portable Power Station"
+      }
+    ],
+    "shortDescription": "300Wh capacity powers devices for days",
+    "description": "The Voltpeak 300W Portable Power Station from Wildpeak is built for adventurers who refuse to compromise on quality. 300Wh capacity powers devices for days. Multiple AC, USB-C and DC outputs. Solar panel compatible for recharging. Built-in LED work light. Designed and tested for the demands of the outdoors, it's a reliable addition to any portable power stations kit.",
+    "features": [
+      "300Wh capacity powers devices for days",
+      "Multiple AC, USB-C and DC outputs",
+      "Solar panel compatible for recharging",
+      "Built-in LED work light"
+    ],
+    "specifications": {
+      "Capacity": "300 Wh",
+      "Output": "300 W",
+      "Weight": "3.6 kg"
+    },
+    "inStock": true,
+    "stockCount": 22,
+    "isFeatured": false,
+    "isBestSeller": true,
+    "isNew": false,
+    "isOnSale": true,
+    "tags": [
+      "accessories",
+      "portable power stations"
+    ]
+  },
+  {
+    "id": "39",
+    "slug": "sunray-foldable-solar-panel-charger",
+    "name": "Sunray Foldable Solar Panel Charger",
+    "category": "accessories",
+    "subcategory": "Portable Power Stations",
+    "brand": "Alpine & Oak",
+    "price": 8299,
+    "currency": "INR",
+    "rating": 4.2,
+    "reviewCount": 106,
+    "thumbnail": "/images/products/sunray-foldable-solar-panel-charger.jpg",
+    "images": [
+      {
+        "url": "/images/products/sunray-foldable-solar-panel-charger.jpg",
+        "alt": "Sunray Foldable Solar Panel Charger"
+      },
+      {
+        "url": "/images/products/sunray-foldable-solar-panel-charger.jpg",
+        "alt": "Sunray Foldable Solar Panel Charger"
+      },
+      {
+        "url": "/images/products/sunray-foldable-solar-panel-charger.jpg",
+        "alt": "Sunray Foldable Solar Panel Charger"
+      }
+    ],
+    "shortDescription": "High-efficiency monocrystalline cells",
+    "description": "The Sunray Foldable Solar Panel Charger from Alpine & Oak is built for adventurers who refuse to compromise on quality. High-efficiency monocrystalline cells. Foldable and lightweight for backpacking. Dual USB output ports. Weatherproof rugged fabric backing. Designed and tested for the demands of the outdoors, it's a reliable addition to any portable power stations kit.",
+    "features": [
+      "High-efficiency monocrystalline cells",
+      "Foldable and lightweight for backpacking",
+      "Dual USB output ports",
+      "Weatherproof rugged fabric backing"
+    ],
+    "specifications": {
+      "Output": "21 W",
+      "Weight": "0.7 kg",
+      "Panels": "3-Panel Fold"
+    },
+    "inStock": true,
+    "stockCount": 29,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "accessories",
+      "portable power stations"
+    ]
+  },
+  {
+    "id": "40",
+    "slug": "glacier-1l-insulated-water-bottle",
+    "name": "Glacier 1L Insulated Water Bottle",
+    "category": "accessories",
+    "subcategory": "Water Bottles",
+    "brand": "Driftwood Outdoors",
+    "price": 2899,
+    "currency": "INR",
+    "rating": 3.7,
+    "reviewCount": 159,
+    "thumbnail": "/images/products/glacier-1l-insulated-water-bottle.jpg",
+    "images": [
+      {
+        "url": "/images/products/glacier-1l-insulated-water-bottle.jpg",
+        "alt": "Glacier 1L Insulated Water Bottle"
+      },
+      {
+        "url": "/images/products/glacier-1l-insulated-water-bottle.jpg",
+        "alt": "Glacier 1L Insulated Water Bottle"
+      },
+      {
+        "url": "/images/products/glacier-1l-insulated-water-bottle.jpg",
+        "alt": "Glacier 1L Insulated Water Bottle"
+      }
+    ],
+    "shortDescription": "Double-wall vacuum insulation",
+    "description": "The Glacier 1L Insulated Water Bottle from Driftwood Outdoors is built for adventurers who refuse to compromise on quality. Double-wall vacuum insulation. Keeps drinks cold 24hr / hot 12hr. Leak-proof lid with carry loop. Durable powder-coated finish. Designed and tested for the demands of the outdoors, it's a reliable addition to any water bottles kit.",
+    "features": [
+      "Double-wall vacuum insulation",
+      "Keeps drinks cold 24hr / hot 12hr",
+      "Leak-proof lid with carry loop",
+      "Durable powder-coated finish"
+    ],
+    "specifications": {
+      "Capacity": "1 L",
+      "Material": "18/8 Stainless Steel",
+      "Weight": "330 g"
+    },
+    "inStock": true,
+    "stockCount": 36,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNew": false,
+    "isOnSale": false,
+    "tags": [
+      "accessories",
+      "water bottles"
+    ]
+  },
+  {
+    "id": "41",
+    "slug": "basecamp-2l-hydration-bladder",
+    "name": "Basecamp 2L Hydration Bladder",
+    "category": "accessories",
+    "subcategory": "Water Bottles",
+    "brand": "TrailForge",
+    "price": 2499,
+    "currency": "INR",
+    "rating": 4.6,
+    "reviewCount": 212,
+    "thumbnail": "/images/products/basecamp-2l-hydration-bladder.jpg",
+    "images": [
+      {
+        "url": "/images/products/basecamp-2l-hydration-bladder.jpg",
+        "alt": "Basecamp 2L Hydration Bladder"
+      },
+      {
+        "url": "/images/products/basecamp-2l-hydration-bladder.jpg",
+        "alt": "Basecamp 2L Hydration Bladder"
+      },
+      {
+        "url": "/images/products/basecamp-2l-hydration-bladder.jpg",
+        "alt": "Basecamp 2L Hydration Bladder"
+      }
+    ],
+    "shortDescription": "BPA-free food-grade material",
+    "description": "The Basecamp 2L Hydration Bladder from TrailForge is built for adventurers who refuse to compromise on quality. BPA-free food-grade material. Wide-mouth opening for easy filling. Insulated tube prevents freezing. Quick-release hose connector. Designed and tested for the demands of the outdoors, it's a reliable addition to any water bottles kit.",
+    "features": [
+      "BPA-free food-grade material",
+      "Wide-mouth opening for easy filling",
+      "Insulated tube prevents freezing",
+      "Quick-release hose connector"
+    ],
+    "specifications": {
+      "Capacity": "2 L",
+      "Material": "TPU"
+    },
+    "inStock": true,
+    "stockCount": 3,
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isNew": false,
+    "isOnSale": false,
+    "tags": [
+      "accessories",
+      "water bottles"
+    ]
+  },
+  {
+    "id": "42",
+    "slug": "ridgeline-multi-tool-15-in-1",
+    "name": "Ridgeline Multi-Tool 15-in-1",
+    "category": "accessories",
+    "subcategory": "Knives & Multi-tools",
+    "brand": "Summit Gear",
+    "price": 3699,
+    "currency": "INR",
+    "rating": 4.1,
+    "reviewCount": 265,
+    "thumbnail": "/images/products/ridgeline-multi-tool-15-in-1.jpg",
+    "images": [
+      {
+        "url": "/images/products/ridgeline-multi-tool-15-in-1.jpg",
+        "alt": "Ridgeline Multi-Tool 15-in-1"
+      },
+      {
+        "url": "/images/products/ridgeline-multi-tool-15-in-1.jpg",
+        "alt": "Ridgeline Multi-Tool 15-in-1"
+      },
+      {
+        "url": "/images/products/ridgeline-multi-tool-15-in-1.jpg",
+        "alt": "Ridgeline Multi-Tool 15-in-1"
+      }
+    ],
+    "shortDescription": "15 functions in one compact tool",
+    "description": "The Ridgeline Multi-Tool 15-in-1 from Summit Gear is built for adventurers who refuse to compromise on quality. 15 functions in one compact tool. Stainless steel construction resists rust. Spring-loaded pliers for one-hand use. Includes nylon sheath. Designed and tested for the demands of the outdoors, it's a reliable addition to any knives & multi-tools kit.",
+    "features": [
+      "15 functions in one compact tool",
+      "Stainless steel construction resists rust",
+      "Spring-loaded pliers for one-hand use",
+      "Includes nylon sheath"
+    ],
+    "specifications": {
+      "Functions": "15",
+      "Weight": "230 g",
+      "Material": "Stainless Steel"
+    },
+    "inStock": true,
+    "stockCount": 10,
+    "isFeatured": false,
+    "isBestSeller": true,
+    "isNew": false,
+    "isOnSale": false,
+    "tags": [
+      "accessories",
+      "knives & multi-tools"
+    ]
+  },
+  {
+    "id": "43",
+    "slug": "trailedge-fixed-blade-knife",
+    "name": "Trailedge Fixed Blade Knife",
+    "category": "accessories",
+    "subcategory": "Knives & Multi-tools",
+    "brand": "Northwoods Co.",
+    "price": 4599,
+    "currency": "INR",
+    "rating": 3.6,
+    "reviewCount": 318,
+    "thumbnail": "/images/products/trailedge-fixed-blade-knife.jpg",
+    "images": [
+      {
+        "url": "/images/products/trailedge-fixed-blade-knife.jpg",
+        "alt": "Trailedge Fixed Blade Knife"
+      },
+      {
+        "url": "/images/products/trailedge-fixed-blade-knife.jpg",
+        "alt": "Trailedge Fixed Blade Knife"
+      },
+      {
+        "url": "/images/products/trailedge-fixed-blade-knife.jpg",
+        "alt": "Trailedge Fixed Blade Knife"
+      }
+    ],
+    "shortDescription": "Full-tang high-carbon steel blade",
+    "description": "The Trailedge Fixed Blade Knife from Northwoods Co. is built for adventurers who refuse to compromise on quality. Full-tang high-carbon steel blade. Ergonomic textured grip handle. Includes leather sheath. Ideal for camp chores and bushcraft. Designed and tested for the demands of the outdoors, it's a reliable addition to any knives & multi-tools kit.",
+    "features": [
+      "Full-tang high-carbon steel blade",
+      "Ergonomic textured grip handle",
+      "Includes leather sheath",
+      "Ideal for camp chores and bushcraft"
+    ],
+    "specifications": {
+      "Blade Length": "11.5 cm",
+      "Material": "High-Carbon Steel"
+    },
+    "inStock": true,
+    "stockCount": 17,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNew": false,
+    "isOnSale": false,
+    "tags": [
+      "accessories",
+      "knives & multi-tools"
+    ]
+  },
+  {
+    "id": "44",
+    "slug": "firestarter-emergency-fire-kit",
+    "name": "Firestarter Emergency Fire Kit",
+    "category": "accessories",
+    "subcategory": "Adventure Accessories",
+    "brand": "Basecamp",
+    "price": 1499,
+    "currency": "INR",
+    "rating": 4.5,
+    "reviewCount": 371,
+    "thumbnail": "/images/products/firestarter-emergency-fire-kit.jpg",
+    "images": [
+      {
+        "url": "/images/products/firestarter-emergency-fire-kit.jpg",
+        "alt": "Firestarter Emergency Fire Kit"
+      },
+      {
+        "url": "/images/products/firestarter-emergency-fire-kit.jpg",
+        "alt": "Firestarter Emergency Fire Kit"
+      },
+      {
+        "url": "/images/products/firestarter-emergency-fire-kit.jpg",
+        "alt": "Firestarter Emergency Fire Kit"
+      }
+    ],
+    "shortDescription": "Ferrocerium rod ignites in wet conditions",
+    "description": "The Firestarter Emergency Fire Kit from Basecamp is built for adventurers who refuse to compromise on quality. Ferrocerium rod ignites in wet conditions. Waterproof tinder included. Compact lanyard-mounted design. Reliable in extreme weather. Designed and tested for the demands of the outdoors, it's a reliable addition to any adventure accessories kit.",
+    "features": [
+      "Ferrocerium rod ignites in wet conditions",
+      "Waterproof tinder included",
+      "Compact lanyard-mounted design",
+      "Reliable in extreme weather"
+    ],
+    "specifications": {
+      "Strikes": "12,000+",
+      "Weight": "45 g"
+    },
+    "inStock": true,
+    "stockCount": 24,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNew": false,
+    "isOnSale": false,
+    "tags": [
+      "accessories",
+      "adventure accessories"
+    ]
+  },
+  {
+    "id": "45",
+    "slug": "compasspoint-adventure-watch",
+    "name": "Compasspoint Adventure Watch",
+    "category": "accessories",
+    "subcategory": "Adventure Accessories",
+    "brand": "Ridgeline",
+    "price": 7499,
+    "currency": "INR",
+    "rating": 4,
+    "reviewCount": 424,
+    "thumbnail": "/images/products/compasspoint-adventure-watch.jpg",
+    "images": [
+      {
+        "url": "/images/products/compasspoint-adventure-watch.jpg",
+        "alt": "Compasspoint Adventure Watch"
+      },
+      {
+        "url": "/images/products/compasspoint-adventure-watch.jpg",
+        "alt": "Compasspoint Adventure Watch"
+      },
+      {
+        "url": "/images/products/compasspoint-adventure-watch.jpg",
+        "alt": "Compasspoint Adventure Watch"
+      }
+    ],
+    "shortDescription": "Built-in compass, altimeter and barometer",
+    "description": "The Compasspoint Adventure Watch from Ridgeline is built for adventurers who refuse to compromise on quality. Built-in compass, altimeter and barometer. Water resistant to 100m. Durable scratch-resistant sapphire glass. Multi-day battery life. Designed and tested for the demands of the outdoors, it's a reliable addition to any adventure accessories kit.",
+    "features": [
+      "Built-in compass, altimeter and barometer",
+      "Water resistant to 100m",
+      "Durable scratch-resistant sapphire glass",
+      "Multi-day battery life"
+    ],
+    "specifications": {
+      "Water Resistance": "100 m",
+      "Battery Life": "14 Days",
+      "Case Material": "Stainless Steel"
+    },
+    "inStock": false,
+    "stockCount": 0,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNew": true,
+    "isOnSale": false,
+    "tags": [
+      "accessories",
+      "adventure accessories"
+    ]
+  },
+  {
+    "id": "46",
+    "slug": "duskguard-dry-bag-20l",
+    "name": "Duskguard Dry Bag 20L",
+    "category": "accessories",
+    "subcategory": "Adventure Accessories",
+    "brand": "Wildpeak",
+    "price": 2099,
+    "currency": "INR",
+    "rating": 4.9,
+    "reviewCount": 477,
+    "thumbnail": "/images/products/duskguard-dry-bag-20l.jpg",
+    "images": [
+      {
+        "url": "/images/products/duskguard-dry-bag-20l.jpg",
+        "alt": "Duskguard Dry Bag 20L"
+      },
+      {
+        "url": "/images/products/duskguard-dry-bag-20l.jpg",
+        "alt": "Duskguard Dry Bag 20L"
+      },
+      {
+        "url": "/images/products/duskguard-dry-bag-20l.jpg",
+        "alt": "Duskguard Dry Bag 20L"
+      }
+    ],
+    "shortDescription": "Roll-top closure keeps contents fully dry",
+    "description": "The Duskguard Dry Bag 20L from Wildpeak is built for adventurers who refuse to compromise on quality. Roll-top closure keeps contents fully dry. Welded seams for maximum waterproofing. Adjustable shoulder strap. Floats when fully sealed. Designed and tested for the demands of the outdoors, it's a reliable addition to any adventure accessories kit.",
+    "features": [
+      "Roll-top closure keeps contents fully dry",
+      "Welded seams for maximum waterproofing",
+      "Adjustable shoulder strap",
+      "Floats when fully sealed"
+    ],
+    "specifications": {
+      "Capacity": "20 L",
+      "Material": "500D PVC Tarpaulin"
+    },
+    "inStock": true,
+    "stockCount": 38,
+    "isFeatured": true,
+    "isBestSeller": true,
+    "isNew": false,
+    "isOnSale": false,
+    "tags": [
+      "accessories",
+      "adventure accessories"
+    ]
+  },
+  {
+    "id": "47",
+    "slug": "trailhead-first-aid-kit",
+    "name": "Trailhead First Aid Kit",
+    "category": "accessories",
+    "subcategory": "Adventure Accessories",
+    "brand": "Alpine & Oak",
+    "price": 2699,
+    "currency": "INR",
+    "rating": 4.4,
+    "reviewCount": 50,
+    "thumbnail": "/images/products/trailhead-first-aid-kit.jpg",
+    "images": [
+      {
+        "url": "/images/products/trailhead-first-aid-kit.jpg",
+        "alt": "Trailhead First Aid Kit"
+      },
+      {
+        "url": "/images/products/trailhead-first-aid-kit.jpg",
+        "alt": "Trailhead First Aid Kit"
+      },
+      {
+        "url": "/images/products/trailhead-first-aid-kit.jpg",
+        "alt": "Trailhead First Aid Kit"
+      }
+    ],
+    "shortDescription": "120-piece comprehensive medical kit",
+    "description": "The Trailhead First Aid Kit from Alpine & Oak is built for adventurers who refuse to compromise on quality. 120-piece comprehensive medical kit. Organized compartments for fast access. Durable water-resistant case. Includes trauma and wound care supplies. Designed and tested for the demands of the outdoors, it's a reliable addition to any adventure accessories kit.",
+    "features": [
+      "120-piece comprehensive medical kit",
+      "Organized compartments for fast access",
+      "Durable water-resistant case",
+      "Includes trauma and wound care supplies"
+    ],
+    "specifications": {
+      "Pieces": "120",
+      "Weight": "0.5 kg"
+    },
+    "inStock": true,
+    "stockCount": 5,
+    "isFeatured": false,
+    "isBestSeller": false,
+    "isNew": false,
+    "isOnSale": false,
+    "tags": [
+      "accessories",
+      "adventure accessories"
+    ]
+  }
+]

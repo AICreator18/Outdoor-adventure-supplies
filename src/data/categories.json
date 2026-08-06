@@ -1,0 +1,42 @@
+[
+  {
+    "id": "cat-camping",
+    "slug": "camping",
+    "name": "Camping",
+    "description": "Tents, sleeping bags, furniture and everything for basecamp comfort.",
+    "image": "/images/scenes/category-camping.jpg",
+    "icon": "bi-fire"
+  },
+  {
+    "id": "cat-hiking",
+    "slug": "hiking",
+    "name": "Hiking",
+    "description": "Backpacks, footwear and apparel built for the trail.",
+    "image": "/images/scenes/category-hiking.jpg",
+    "icon": "bi-signpost-split"
+  },
+  {
+    "id": "cat-boating",
+    "slug": "boating",
+    "name": "Boating",
+    "description": "Kayaks, canoes and on-water gear for every paddler.",
+    "image": "/images/scenes/category-boating.jpg",
+    "icon": "bi-water"
+  },
+  {
+    "id": "cat-fishing",
+    "slug": "fishing",
+    "name": "Fishing",
+    "description": "Rods, reels and tackle for freshwater and beyond.",
+    "image": "/images/scenes/category-fishing.jpg",
+    "icon": "bi-tsunami"
+  },
+  {
+    "id": "cat-accessories",
+    "slug": "accessories",
+    "name": "Accessories",
+    "description": "Survival gear, power stations and adventure essentials.",
+    "image": "/images/scenes/category-accessories.jpg",
+    "icon": "bi-backpack2"
+  }
+]

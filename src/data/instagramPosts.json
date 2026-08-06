@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ig-1",
+    "image": "/images/products/trailhead-4-person-dome-tent.jpg",
+    "caption": "Basecamp views hit different at golden hour.",
+    "likes": 180
+  },
+  {
+    "id": "ig-2",
+    "image": "/images/products/riverdrift-10ft-recreational-kayak.jpg",
+    "caption": "Paddled 12km before breakfast today.",
+    "likes": 317
+  },
+  {
+    "id": "ig-3",
+    "image": "/images/products/rockhopper-waterproof-hiking-boots.jpg",
+    "caption": "Trail-tested and ready for the next summit.",
+    "likes": 454
+  },
+  {
+    "id": "ig-4",
+    "image": "/images/products/streamcast-spinning-rod-reel-combo.jpg",
+    "caption": "Nothing beats a quiet morning on the water.",
+    "likes": 591
+  },
+  {
+    "id": "ig-5",
+    "image": "/images/products/ridgeline-50l-hiking-backpack.jpg",
+    "caption": "Pack light, wander far.",
+    "likes": 728
+  },
+  {
+    "id": "ig-6",
+    "image": "/images/products/summit-carbon-trekking-poles.jpg",
+    "caption": "Every step earns the view.",
+    "likes": 865
+  },
+  {
+    "id": "ig-7",
+    "image": "/images/products/northwoods-3-person-canoe.jpg",
+    "caption": "Weekend plans: portage, paddle, repeat.",
+    "likes": 1002
+  },
+  {
+    "id": "ig-8",
+    "image": "/images/products/lumen-300-led-camping-lantern.jpg",
+    "caption": "Camp lit, stories ready.",
+    "likes": 239
+  }
+]

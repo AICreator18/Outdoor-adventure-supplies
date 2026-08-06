@@ -1,0 +1,34 @@
+[
+  {
+    "id": "brand-1",
+    "name": "TrailForge"
+  },
+  {
+    "id": "brand-2",
+    "name": "Summit Gear"
+  },
+  {
+    "id": "brand-3",
+    "name": "Northwoods Co."
+  },
+  {
+    "id": "brand-4",
+    "name": "Basecamp"
+  },
+  {
+    "id": "brand-5",
+    "name": "Ridgeline"
+  },
+  {
+    "id": "brand-6",
+    "name": "Wildpeak"
+  },
+  {
+    "id": "brand-7",
+    "name": "Alpine & Oak"
+  },
+  {
+    "id": "brand-8",
+    "name": "Driftwood Outdoors"
+  }
+]

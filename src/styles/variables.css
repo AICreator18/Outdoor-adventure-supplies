@@ -1,0 +1,79 @@
+:root {
+  /* Brand palette */
+  --color-forest: #2d6a4f;
+  --color-forest-dark: #1b4332;
+  --color-deep-green: #10251f;
+  --color-earth-brown: #7c4a2d;
+  --color-earth-brown-light: #a9744f;
+  --color-stone-gray: #6c757d;
+  --color-stone-gray-light: #eef0ee;
+  --color-sky-blue: #4fa8d8;
+  --color-sky-blue-dark: #2e7ab0;
+  --color-warm-orange: #e8772e;
+  --color-warm-orange-dark: #b8540f;
+  --color-cream: #f8f7f2;
+  --color-charcoal: #21261f;
+  --color-ink: var(--color-deep-green);
+  /* Text/link variant of forest green — kept separate from --color-forest
+     because that variable is also used as a button/badge BACKGROUND paired
+     with white text, which needs to stay saturated in both themes. */
+  --color-link: var(--color-forest);
+
+  /* Typography */
+  --font-heading: "Poppins", "Segoe UI", sans-serif;
+  --font-body: "Inter", "Segoe UI", sans-serif;
+
+  /* Elevation */
+  --shadow-sm: 0 2px 8px rgba(16, 37, 31, 0.08);
+  --shadow-md: 0 8px 24px rgba(16, 37, 31, 0.12);
+  --shadow-lg: 0 16px 40px rgba(16, 37, 31, 0.16);
+
+  /* Radius */
+  --radius-sm: 6px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+
+  /* Bootstrap overrides */
+  --bs-primary: var(--color-forest);
+  --bs-primary-rgb: 45, 106, 79;
+  --bs-secondary: var(--color-earth-brown);
+  --bs-secondary-rgb: 124, 74, 45;
+  --bs-body-font-family: var(--font-body);
+  --bs-body-color: var(--color-charcoal);
+  --bs-link-color: var(--color-link);
+  --bs-link-color-rgb: 45, 106, 79;
+  --bs-link-hover-color: var(--color-forest-dark);
+  --bs-link-hover-color-rgb: 27, 67, 50;
+}
+
+/* Dark mode: redefine surface/text tokens; brand accent colors
+   (forest, orange, brown) stay constant across both themes. */
+[data-bs-theme="dark"] {
+  --color-cream: #1b211d;
+  --color-stone-gray-light: #262f28;
+  --color-stone-gray: #98a29b;
+  --color-charcoal: #dde2dd;
+  --color-ink: #f2f4f1;
+
+  /* --color-forest itself (#2d6a4f) only passes 2.41:1 on a dark surface —
+     lighten the text/link variant so links stay WCAG AA readable. */
+  --color-link: #5ba57e;
+
+  /* Flips every Bootstrap .bg-white utility to a dark surface color */
+  --bs-white-rgb: 27, 33, 29;
+
+  --bs-body-color: var(--color-charcoal);
+  --bs-link-color-rgb: 91, 165, 126;
+  --bs-link-hover-color: #7bc49c;
+  --bs-link-hover-color-rgb: 123, 196, 156;
+}
+
+/* Bootstrap's .text-white utility derives its color from --bs-white-rgb, the
+   same variable we redefine above to flip .bg-white surfaces to dark in dark
+   mode. That side effect silently turns every .text-white element (hero
+   headlines, footer social icons, etc.) near-black in dark mode. Pin it back
+   to literal white so .bg-white can keep flipping without breaking text-white
+   sitewide. */
+[data-bs-theme="dark"] .text-white {
+  color: #ffffff !important;
+}

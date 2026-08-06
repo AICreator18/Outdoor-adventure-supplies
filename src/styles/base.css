@@ -1,0 +1,82 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-body);
+  color: var(--color-charcoal);
+  background-color: var(--bs-body-bg);
+  transition:
+    background-color 0.2s ease,
+    color 0.2s ease;
+}
+
+/* Bootstrap's dark mode specificity and var() resolution block our token in
+   the Vite dev build (same class of bug fixed for .text-white and
+   .nav-link-custom below/elsewhere) — pin the literal value so body text and
+   anything that inherits its color (e.g. testimonial names) stays readable. */
+[data-bs-theme="dark"] body {
+  color: #dde2dd !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+.font-heading {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  color: var(--color-ink);
+}
+
+::selection {
+  background-color: var(--color-warm-orange);
+  color: #ffffff;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-stone-gray-light);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-forest);
+  border-radius: 999px;
+}
+
+.btn {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  border-radius: var(--radius-sm);
+}
+
+.btn:focus,
+.btn:focus-visible {
+  box-shadow: 0 0 0 0.2rem rgba(45, 106, 79, 0.35);
+}
+
+.form-control:focus,
+.form-select:focus {
+  border-color: var(--color-forest);
+  box-shadow: 0 0 0 0.2rem rgba(45, 106, 79, 0.2);
+}

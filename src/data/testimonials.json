@@ -1,0 +1,44 @@
+[
+  {
+    "id": "test-1",
+    "name": "Rohan T.",
+    "location": "Chennai, TN",
+    "rating": 5,
+    "quote": "Ordered the Ridgeline 50L backpack for a trek in the Nilgiris and it held up perfectly across a week of heavy use. Genuinely impressed with the build quality."
+  },
+  {
+    "id": "test-2",
+    "name": "Meera D.",
+    "location": "Bengaluru, KA",
+    "rating": 5,
+    "quote": "The customer service team helped me pick the right sleeping bag for a winter trip and it made all the difference. Warm every single night."
+  },
+  {
+    "id": "test-3",
+    "name": "Aditya P.",
+    "location": "Pune, MH",
+    "rating": 4,
+    "quote": "Great range of gear for the price. My kayak arrived well packaged and paddling on the backwaters has never been easier."
+  },
+  {
+    "id": "test-4",
+    "name": "Kavya G.",
+    "location": "Coimbatore, TN",
+    "rating": 5,
+    "quote": "Been buying camping furniture here for two seasons now. The folding chair is still going strong after dozens of trips."
+  },
+  {
+    "id": "test-5",
+    "name": "Sanjay R.",
+    "location": "Hyderabad, TS",
+    "rating": 5,
+    "quote": "Fast shipping and the fishing rod combo was exactly as described. Landed my biggest catch yet with it."
+  },
+  {
+    "id": "test-6",
+    "name": "Divya M.",
+    "location": "Kochi, KL",
+    "rating": 4,
+    "quote": "Love that everything is genuinely tested outdoor gear, not just rebranded basics. Will keep shopping here for future trips."
+  }
+]

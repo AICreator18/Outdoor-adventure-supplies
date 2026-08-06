@@ -1,0 +1,341 @@
+.text-forest {
+  /* Theme-aware: --color-forest itself fails contrast on the dark surface. */
+  color: var(--color-link) !important;
+}
+.text-deep-green {
+  color: var(--color-deep-green) !important;
+}
+.text-ink {
+  color: var(--color-ink) !important;
+}
+.text-earth-brown {
+  color: var(--color-earth-brown) !important;
+}
+.text-stone-gray {
+  color: var(--color-stone-gray) !important;
+}
+.text-warm-orange {
+  /* Most usages sit on dark hero overlays / colored sections, where the
+     vivid orange already clears AA (5.4:1+). Do not darken this globally —
+     see .text-warm-orange-on-light for the white/cream-background cases. */
+  color: var(--color-warm-orange) !important;
+}
+.text-warm-orange-on-light {
+  /* Accessible variant for warm-orange text/icons that sit on white or
+     cream backgrounds, where the base warm-orange fails AA (2.95:1). */
+  color: var(--color-warm-orange-dark) !important;
+}
+.text-sky-blue {
+  color: var(--color-sky-blue-dark) !important;
+}
+
+.bg-forest {
+  background-color: var(--color-forest) !important;
+}
+.bg-deep-green {
+  background-color: var(--color-deep-green) !important;
+}
+.bg-earth-brown {
+  background-color: var(--color-earth-brown) !important;
+}
+.bg-stone-gray-light {
+  background-color: var(--color-stone-gray-light) !important;
+}
+.bg-cream {
+  background-color: var(--color-cream) !important;
+}
+.bg-warm-orange {
+  /* Accessible dark variant: every current usage pairs this background
+     with white text, which fails WCAG AA against the base warm-orange. */
+  background-color: var(--color-warm-orange-dark) !important;
+}
+
+.btn-warm-orange {
+  background-color: var(--color-warm-orange-dark);
+  border-color: var(--color-warm-orange-dark);
+  color: #ffffff;
+}
+.btn-warm-orange:hover,
+.btn-warm-orange:focus {
+  background-color: #8f3f13;
+  border-color: #8f3f13;
+  color: #ffffff;
+}
+
+.btn-outline-forest {
+  border-color: var(--color-link);
+  color: var(--color-link);
+  background-color: transparent;
+}
+.btn-outline-forest:hover,
+.btn-outline-forest:focus {
+  background-color: var(--color-forest);
+  border-color: var(--color-forest);
+  color: #ffffff;
+}
+
+.section-py {
+  padding-top: clamp(2.5rem, 5vw, 4rem);
+  padding-bottom: clamp(2.5rem, 5vw, 4rem);
+}
+
+.rounded-md {
+  border-radius: var(--radius-md) !important;
+}
+.rounded-lg {
+  border-radius: var(--radius-lg) !important;
+}
+
+.shadow-brand-sm {
+  box-shadow: var(--shadow-sm);
+}
+.shadow-brand-md {
+  box-shadow: var(--shadow-md);
+}
+.shadow-brand-lg {
+  box-shadow: var(--shadow-lg);
+}
+
+.hover-lift {
+  transition:
+    transform 0.25s ease,
+    box-shadow 0.25s ease;
+}
+.hover-lift:hover {
+  transform: translateY(-6px);
+  box-shadow: var(--shadow-md);
+}
+
+.badge-sale {
+  background-color: var(--color-warm-orange-dark);
+  color: #ffffff;
+  font-family: var(--font-heading);
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.badge-new {
+  background-color: var(--color-sky-blue-dark);
+  color: #ffffff;
+  font-family: var(--font-heading);
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.img-cover {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* For isolated product photography, where cropping risks cutting off the
+   item itself — shows the full photo with breathing room instead. */
+.img-contain-padded {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  padding: 12px;
+}
+
+/* Dark-stroke sketch icons float free (transparent) in light mode, but need
+   a light backdrop in dark mode or they vanish against the flipped-dark
+   surface behind them. */
+.dark-mode-icon-backdrop {
+  background-color: transparent;
+}
+[data-bs-theme="dark"] .dark-mode-icon-backdrop {
+  background-color: #f4f1e8;
+}
+
+.letter-spacing-wide {
+  letter-spacing: 0.05em;
+}
+
+.torn-edge-bottom {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -1px;
+  height: 34px;
+  background: rgb(var(--bs-white-rgb));
+  clip-path: polygon(
+    0% 100%, 0% 40%, 2% 55%, 4% 25%, 6% 50%, 8% 20%, 10% 45%, 12% 15%, 14% 40%, 16% 10%,
+    18% 35%, 20% 55%, 22% 25%, 24% 45%, 26% 15%, 28% 40%, 30% 20%, 32% 50%, 34% 25%, 36% 45%,
+    38% 15%, 40% 40%, 42% 20%, 44% 50%, 46% 25%, 48% 45%, 50% 15%, 52% 40%, 54% 20%, 56% 50%,
+    58% 25%, 60% 45%, 62% 15%, 64% 40%, 66% 20%, 68% 50%, 70% 25%, 72% 45%, 74% 15%, 76% 40%,
+    78% 20%, 80% 50%, 82% 25%, 84% 45%, 86% 15%, 88% 40%, 90% 20%, 92% 50%, 94% 25%, 96% 45%,
+    98% 20%, 100% 40%, 100% 100%
+  );
+}
+
+.transition-base {
+  transition: all 0.2s ease-in-out;
+}
+
+.icon-btn {
+  width: 40px;
+  height: 40px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  color: var(--color-ink);
+  background: transparent;
+  border: none;
+  transition: background-color 0.2s ease;
+  font-size: 1.15rem;
+  position: relative;
+}
+
+.icon-btn:hover {
+  background-color: var(--color-stone-gray-light);
+}
+
+.pagination .page-link {
+  color: var(--color-ink);
+}
+.pagination .page-link:hover {
+  color: var(--color-link);
+}
+.pagination .page-item.active .page-link {
+  background-color: var(--color-forest);
+  border-color: var(--color-forest);
+  color: #ffffff;
+}
+
+.card-action-btn {
+  position: relative;
+  z-index: 2;
+}
+
+.icon-badge {
+  position: absolute;
+  top: -2px;
+  right: -2px;
+  font-size: 0.65rem;
+  min-width: 18px;
+  height: 18px;
+  line-height: 18px;
+  padding: 0;
+}
+
+.offcanvas-backdrop-custom {
+  position: fixed;
+  inset: 0;
+  background: rgba(16, 37, 31, 0.55);
+  opacity: 0;
+  visibility: hidden;
+  transition:
+    opacity 0.25s ease,
+    visibility 0.25s ease;
+  z-index: 1040;
+}
+.offcanvas-backdrop-custom.show {
+  opacity: 1;
+  visibility: visible;
+}
+
+.offcanvas-panel {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  width: min(86vw, 360px);
+  background: rgb(var(--bs-white-rgb));
+  z-index: 1050;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.3s ease;
+  box-shadow: var(--shadow-lg);
+}
+.offcanvas-panel.offcanvas-end {
+  right: 0;
+  transform: translateX(100%);
+}
+.offcanvas-panel.offcanvas-start {
+  left: 0;
+  transform: translateX(-100%);
+}
+.offcanvas-panel.offcanvas-end.show,
+.offcanvas-panel.offcanvas-start.show {
+  transform: translateX(0);
+}
+.offcanvas-body-custom {
+  flex: 1;
+  overflow-y: auto;
+}
+
+.skeleton-shimmer,
+.skeleton-line {
+  background: linear-gradient(90deg, #eef0ee 25%, #f8f7f2 37%, #eef0ee 63%);
+  background-size: 400% 100%;
+  animation: skeleton-shimmer 1.4s ease infinite;
+}
+[data-bs-theme="dark"] .skeleton-shimmer,
+[data-bs-theme="dark"] .skeleton-line {
+  background: linear-gradient(90deg, #262f28 25%, #2d3830 37%, #262f28 63%);
+  background-size: 400% 100%;
+}
+.skeleton-line {
+  height: 12px;
+  border-radius: 4px;
+}
+@keyframes skeleton-shimmer {
+  0% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0 50%;
+  }
+}
+
+.scroll-to-top-btn {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  z-index: 1030;
+  width: 44px;
+  height: 44px;
+  border: none;
+}
+.scroll-to-top-btn:hover {
+  background-color: var(--color-forest-dark) !important;
+}
+
+.brand-wordmark {
+  letter-spacing: 0.03em;
+  transition: color 0.2s ease;
+}
+.brand-wordmark:hover {
+  color: var(--color-link) !important;
+}
+
+.instagram-overlay {
+  background: rgba(16, 37, 31, 0.6);
+  opacity: 0;
+  transition: opacity 0.25s ease;
+}
+.instagram-tile:hover .instagram-overlay {
+  opacity: 1;
+}
+
+/* Sale hero — light mode uses a natural green gradient, dark mode mirrors the main hero */
+.sale-hero-section {
+  background:
+    linear-gradient(135deg, #e7ecdf 0%, #dde5d4 45%, #eef1e7 100%),
+    url('/images/scenes/sale-hero-bg.jpg') center/cover no-repeat;
+}
+.sale-hero-icon-circle {
+  border-color: var(--color-deep-green);
+}
+.sale-hero-icon {
+  color: var(--color-deep-green);
+}
+[data-bs-theme="dark"] .sale-hero-section {
+  background: linear-gradient(135deg, var(--color-deep-green) 0%, var(--color-forest-dark) 100%);
+}
+[data-bs-theme="dark"] .sale-hero-icon-circle {
+  border-color: rgba(255, 255, 255, 0.3);
+}
+[data-bs-theme="dark"] .sale-hero-icon {
+  color: var(--color-warm-orange);
+}

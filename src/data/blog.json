@@ -1,0 +1,110 @@
+[
+  {
+    "id": "blog-1",
+    "slug": "5-essential-tips-for-your-first-overnight-hike",
+    "title": "5 Essential Tips for Your First Overnight Hike",
+    "category": "Hiking",
+    "author": "Priya R.",
+    "date": "2026-06-02",
+    "readMinutes": 6,
+    "excerpt": "Planning your first night on the trail? Here's what experienced hikers wish they'd known before their first overnight trip.",
+    "content": [
+      "There's a particular kind of nervousness that comes with your first overnight hike — the gear checklist feels endless, and the idea of sleeping miles from the nearest road can feel daunting. The good news: with a bit of preparation, that nervousness quickly turns into excitement.",
+      "Start with the basics. A well-fitted backpack, a tent you've practiced pitching at home, and a sleeping bag rated for conditions slightly colder than you expect will cover most of what you need. Don't wait until you're on the trail to figure out how your gear works.",
+      "Pack less than you think you need, then remove one more thing. New hikers consistently over-pack, and every extra kilogram matters more than it seems like it should once you're a few hours in. Focus on the essentials: shelter, insulation, water treatment, a headlamp, and a basic first aid kit.",
+      "Tell someone your route and expected return time before you leave — this is non-negotiable, no matter how short or well-traveled the trail feels. Cell coverage disappears faster than you'd expect.",
+      "Finally, give yourself permission to turn back. The mountain will still be there next season, and the best hikers are the ones who know when a trip isn't going to plan."
+    ],
+    "coverImage": "/images/scenes/category-camping.jpg"
+  },
+  {
+    "id": "blog-2",
+    "slug": "how-to-choose-the-right-tent-for-your-camping-style",
+    "title": "How to Choose the Right Tent for Your Camping Style",
+    "category": "Camping",
+    "author": "Arjun M.",
+    "date": "2026-05-18",
+    "readMinutes": 7,
+    "excerpt": "From car camping to ultralight backpacking, the right tent depends entirely on how — and where — you actually camp.",
+    "content": [
+      "Not all tents are built for the same trip, and the biggest mistake new campers make is buying based on price alone rather than matching a tent to how they actually camp.",
+      "If you're car camping at a drive-up site, weight barely matters — prioritize interior space, headroom, and ease of setup instead. A slightly heavier tent with more livable space will make a weekend at a campground far more comfortable.",
+      "For backpacking, weight becomes the deciding factor. Every extra kilogram in your tent is a kilogram you're carrying uphill. Look at packed weight, not just the tent's footprint, and consider how many nights you'll realistically spend in it per year before paying a premium for ultralight materials.",
+      "Season rating matters more than most buyers realize. A 3-season tent handles spring through fall in most climates, but if you're planning any winter trips, you'll want a dedicated 4-season shelter built to handle snow load and stronger wind.",
+      "Whatever you choose, pitch it in your backyard before your first trip. There's no worse time to learn your tent's quirks than in the dark, in the rain, at a campsite."
+    ],
+    "coverImage": "/images/scenes/category-hiking.jpg"
+  },
+  {
+    "id": "blog-3",
+    "slug": "kayak-vs-canoe-which-is-right-for-your-next-trip",
+    "title": "Kayak vs. Canoe: Which Is Right for Your Next Trip",
+    "category": "Boating",
+    "author": "Karthik S.",
+    "date": "2026-04-27",
+    "readMinutes": 5,
+    "excerpt": "Both get you out on the water, but they're built for very different kinds of trips. Here's how to decide.",
+    "content": [
+      "Kayaks and canoes both look similar to a beginner, but they handle very differently once you're actually on the water — and that difference should drive your decision.",
+      "Kayaks sit lower in the water and are generally faster and more maneuverable, making them a great choice for open water, currents, or longer solo paddling trips. A double-bladed paddle also makes it easier to maintain a straight line.",
+      "Canoes sit higher, offer significantly more storage capacity, and are easier to load and unload gear from — which makes them a strong choice for multi-day trips, fishing outings, or paddling with kids and pets.",
+      "If you're mostly paddling calm lakes with a group and need to haul gear, a canoe usually wins. If you want speed, easier transport, and solo flexibility, a kayak is usually the better fit.",
+      "Whichever you choose, always paddle with a properly fitted life vest and check the weather forecast — conditions on open water can change faster than they do on land."
+    ],
+    "coverImage": "/images/scenes/category-boating.jpg"
+  },
+  {
+    "id": "blog-4",
+    "slug": "a-beginner-s-guide-to-fly-fishing-in-freshwater-lakes",
+    "title": "A Beginner's Guide to Fly Fishing in Freshwater Lakes",
+    "category": "Fishing",
+    "author": "Ananya K.",
+    "date": "2026-04-09",
+    "readMinutes": 8,
+    "excerpt": "Fly fishing has a reputation for being intimidating. It isn't — here's how to get started without overthinking it.",
+    "content": [
+      "Fly fishing has a reputation for being complicated, technical, and slightly intimidating to newcomers. In practice, freshwater lake fishing is one of the most forgiving ways to learn.",
+      "Start with a simple, medium-action rod and a reel loaded with weight-forward floating line — this combination is versatile enough to handle most lake conditions you'll encounter as a beginner.",
+      "Spend time practicing your cast on dry land or open grass before you ever step near the water. A clean, controlled cast matters more to your early success than fly selection ever will.",
+      "Pay attention to what's actually happening on the water. Are fish rising near the surface? Try a dry fly. Nothing visible? A nymph fished slightly below the surface is often your best bet.",
+      "Patience is the real skill being tested here, not technique. Some of the best fishing days involve long stretches of nothing followed by a sudden, satisfying strike."
+    ],
+    "coverImage": "/images/scenes/category-fishing.jpg"
+  },
+  {
+    "id": "blog-5",
+    "slug": "building-the-ultimate-emergency-survival-kit",
+    "title": "Building the Ultimate Emergency Survival Kit",
+    "category": "Accessories",
+    "author": "Vikram N.",
+    "date": "2026-03-22",
+    "readMinutes": 6,
+    "excerpt": "A good survival kit isn't about buying the most gear — it's about carrying the right gear and knowing how to use it.",
+    "content": [
+      "A survival kit is one of those things nobody wants to need and everybody should carry anyway. The good news is that building an effective one doesn't require an enormous amount of gear.",
+      "Start with the core categories: a way to start a fire in wet conditions, a way to signal for help, basic first aid supplies, a means of water purification, and an emergency shelter like a mylar blanket.",
+      "Quality matters more than quantity here. A single reliable ferrocerium fire starter beats three cheap lighters that might fail in the cold. Test your gear before you need it, not during an emergency.",
+      "Keep your kit somewhere you'll actually have it — a kit sitting at home does nothing for you on the trail. A compact pouch that fits in any daypack removes the excuse to leave it behind.",
+      "Finally, knowledge is the one piece of gear you can't buy. Take a basic wilderness first aid course if you spend meaningful time outdoors; it's the single highest-value addition to any survival kit."
+    ],
+    "coverImage": "/images/scenes/category-accessories.jpg"
+  },
+  {
+    "id": "blog-6",
+    "slug": "layering-101-staying-warm-and-dry-on-the-trail",
+    "title": "Layering 101: Staying Warm and Dry on the Trail",
+    "category": "Hiking",
+    "author": "Sneha V.",
+    "date": "2026-03-05",
+    "readMinutes": 5,
+    "excerpt": "The difference between a miserable hike and a great one often comes down to three simple layers.",
+    "content": [
+      "Cotton kills — you'll hear this phrase from experienced hikers constantly, and it's worth repeating because it's true. Once cotton gets wet, from rain or your own sweat, it stops insulating and starts pulling heat away from your body.",
+      "The layering system that actually works has three parts: a moisture-wicking base layer against your skin, an insulating mid-layer like fleece to trap warmth, and a waterproof, breathable outer shell to block wind and rain.",
+      "The mistake most new hikers make is overdressing at the trailhead. You should feel slightly cool for the first ten minutes of a hike — once your body warms up from movement, that feeling disappears fast.",
+      "Adjust layers before you start sweating heavily, not after. Once your base layer is soaked, it becomes much harder to regulate your temperature for the rest of the hike.",
+      "Pack more layers than you think you'll need for the summit or turnaround point, where wind and lower activity levels can make temperatures feel dramatically colder than at the trailhead."
+    ],
+    "coverImage": "/images/scenes/about-story.jpg"
+  }
+]

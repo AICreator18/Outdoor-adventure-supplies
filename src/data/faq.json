@@ -1,0 +1,42 @@
+[
+  {
+    "id": "faq-1",
+    "question": "What is your return and exchange policy?",
+    "answer": "Unused items in original packaging can be returned within 30 days of delivery for a full refund. Exchanges for a different size or color are free within the same window."
+  },
+  {
+    "id": "faq-2",
+    "question": "Do you ship across all of India?",
+    "answer": "Yes, we ship to every serviceable pin code across India. Orders over ₹5,000 qualify for free standard shipping; smaller orders have a flat shipping fee calculated at checkout."
+  },
+  {
+    "id": "faq-3",
+    "question": "How long does delivery usually take?",
+    "answer": "Most orders arrive within 3-7 business days depending on your location, with metro cities typically on the faster end of that range."
+  },
+  {
+    "id": "faq-4",
+    "question": "Are your products covered by a warranty?",
+    "answer": "Yes, all gear is covered by the manufacturer's standard warranty against defects, typically ranging from 1 to 3 years depending on the product category."
+  },
+  {
+    "id": "faq-5",
+    "question": "Can I track my order after it ships?",
+    "answer": "Once your order ships, you'll receive a tracking link by email so you can follow its progress right up to delivery."
+  },
+  {
+    "id": "faq-6",
+    "question": "Do you offer gear rentals for one-time trips?",
+    "answer": "Not currently — right now we're focused purely on retail sales, though it's something we're evaluating for select high-cost items like kayaks and canoes."
+  },
+  {
+    "id": "faq-7",
+    "question": "How do I know what size hiking boots to order?",
+    "answer": "Each hiking shoe and boot listing includes a size guide in the specifications section. If you're between sizes, we generally recommend sizing up slightly to accommodate thicker hiking socks."
+  },
+  {
+    "id": "faq-8",
+    "question": "What payment methods do you accept?",
+    "answer": "We accept all major credit and debit cards, UPI, and popular digital wallets at checkout."
+  }
+]

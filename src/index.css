@@ -1,0 +1,17 @@
+@import "./styles/variables.css";
+@import "./styles/base.css";
+@import "./styles/utilities.css";
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+#root {
+  min-height: 100svh;
+  display: flex;
+  flex-direction: column;
+}

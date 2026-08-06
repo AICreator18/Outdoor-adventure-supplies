@@ -1,0 +1,1872 @@
+[
+  {
+    "id": "rev-1",
+    "productId": "1",
+    "author": "Arjun M.",
+    "rating": 5,
+    "date": "2026-07-14",
+    "title": "Exceeded my expectations",
+    "comment": "Exactly as described, and the quality is even better than I expected for the price. Highly recommend.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-2",
+    "productId": "1",
+    "author": "Nisha T.",
+    "rating": 5,
+    "date": "2026-07-01",
+    "title": "Worth every rupee",
+    "comment": "This has quickly become one of my favorite pieces of gear. Easy to use and genuinely well made.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-3",
+    "productId": "1",
+    "author": "Sanjay D.",
+    "rating": 4,
+    "date": "2026-06-18",
+    "title": "Does the job well",
+    "comment": "Works great for casual use. Packaging could be better but the product itself is dependable.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-4",
+    "productId": "2",
+    "author": "Divya R.",
+    "rating": 4,
+    "date": "2026-07-07",
+    "title": "Happy with this purchase",
+    "comment": "Good quality overall. Not perfect, but it's held up well across a couple of trips so far.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-5",
+    "productId": "2",
+    "author": "Vikram M.",
+    "rating": 5,
+    "date": "2026-06-24",
+    "title": "Exceeded my expectations",
+    "comment": "Exactly as described, and the quality is even better than I expected for the price. Highly recommend.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-6",
+    "productId": "2",
+    "author": "Priya T.",
+    "rating": 5,
+    "date": "2026-06-11",
+    "title": "Worth every rupee",
+    "comment": "This has quickly become one of my favorite pieces of gear. Easy to use and genuinely well made.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-7",
+    "productId": "2",
+    "author": "Arun D.",
+    "rating": 4,
+    "date": "2026-05-29",
+    "title": "Does the job well",
+    "comment": "Works great for casual use. Packaging could be better but the product itself is dependable.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-8",
+    "productId": "3",
+    "author": "Arun P.",
+    "rating": 5,
+    "date": "2026-06-30",
+    "title": "My go-to gear now",
+    "comment": "Fantastic purchase. Arrived well packaged and worked perfectly right out of the box.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-9",
+    "productId": "3",
+    "author": "Lakshmi R.",
+    "rating": 4,
+    "date": "2026-06-17",
+    "title": "Happy with this purchase",
+    "comment": "Good quality overall. Not perfect, but it's held up well across a couple of trips so far.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-10",
+    "productId": "3",
+    "author": "Aditya M.",
+    "rating": 5,
+    "date": "2026-06-04",
+    "title": "Exceeded my expectations",
+    "comment": "Exactly as described, and the quality is even better than I expected for the price. Highly recommend.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-11",
+    "productId": "3",
+    "author": "Sneha T.",
+    "rating": 5,
+    "date": "2026-05-22",
+    "title": "Worth every rupee",
+    "comment": "This has quickly become one of my favorite pieces of gear. Easy to use and genuinely well made.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-12",
+    "productId": "3",
+    "author": "Karthik D.",
+    "rating": 4,
+    "date": "2026-05-09",
+    "title": "Does the job well",
+    "comment": "Works great for casual use. Packaging could be better but the product itself is dependable.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-13",
+    "productId": "4",
+    "author": "Sneha N.",
+    "rating": 5,
+    "date": "2026-06-23",
+    "title": "Perfect for the trail",
+    "comment": "This has quickly become one of my favorite pieces of gear. Easy to use and genuinely well made.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-14",
+    "productId": "4",
+    "author": "Karthik P.",
+    "rating": 5,
+    "date": "2026-06-10",
+    "title": "My go-to gear now",
+    "comment": "Fantastic purchase. Arrived well packaged and worked perfectly right out of the box.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-15",
+    "productId": "4",
+    "author": "Kavya R.",
+    "rating": 4,
+    "date": "2026-05-28",
+    "title": "Happy with this purchase",
+    "comment": "Good quality overall. Not perfect, but it's held up well across a couple of trips so far.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-16",
+    "productId": "5",
+    "author": "Rohan K.",
+    "rating": 3,
+    "date": "2026-06-16",
+    "title": "It's okay",
+    "comment": "Average experience overall — works, but doesn't particularly stand out.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-17",
+    "productId": "5",
+    "author": "Meera N.",
+    "rating": 5,
+    "date": "2026-06-03",
+    "title": "Perfect for the trail",
+    "comment": "This has quickly become one of my favorite pieces of gear. Easy to use and genuinely well made.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-18",
+    "productId": "5",
+    "author": "Rahul P.",
+    "rating": 5,
+    "date": "2026-05-21",
+    "title": "My go-to gear now",
+    "comment": "Fantastic purchase. Arrived well packaged and worked perfectly right out of the box.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-19",
+    "productId": "5",
+    "author": "Ananya R.",
+    "rating": 4,
+    "date": "2026-05-08",
+    "title": "Happy with this purchase",
+    "comment": "Good quality overall. Not perfect, but it's held up well across a couple of trips so far.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-20",
+    "productId": "6",
+    "author": "Ananya G.",
+    "rating": 4,
+    "date": "2026-06-09",
+    "title": "Happy with this purchase",
+    "comment": "Good quality overall. Not perfect, but it's held up well across a couple of trips so far.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-21",
+    "productId": "6",
+    "author": "Arjun K.",
+    "rating": 3,
+    "date": "2026-05-27",
+    "title": "Decent, with room to improve",
+    "comment": "Does the basic job but nothing special. Might look at other options next time.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-22",
+    "productId": "6",
+    "author": "Nisha N.",
+    "rating": 5,
+    "date": "2026-05-14",
+    "title": "Perfect for the trail",
+    "comment": "This has quickly become one of my favorite pieces of gear. Easy to use and genuinely well made.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-23",
+    "productId": "6",
+    "author": "Sanjay P.",
+    "rating": 5,
+    "date": "2026-05-01",
+    "title": "My go-to gear now",
+    "comment": "Fantastic purchase. Arrived well packaged and worked perfectly right out of the box.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-24",
+    "productId": "6",
+    "author": "Divya R.",
+    "rating": 4,
+    "date": "2026-04-18",
+    "title": "Happy with this purchase",
+    "comment": "Good quality overall. Not perfect, but it's held up well across a couple of trips so far.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-25",
+    "productId": "7",
+    "author": "Sanjay V.",
+    "rating": 5,
+    "date": "2026-06-02",
+    "title": "Couldn't ask for more",
+    "comment": "Fantastic purchase. Arrived well packaged and worked perfectly right out of the box.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-26",
+    "productId": "7",
+    "author": "Divya G.",
+    "rating": 4,
+    "date": "2026-05-20",
+    "title": "Happy with this purchase",
+    "comment": "Good quality overall. Not perfect, but it's held up well across a couple of trips so far.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-27",
+    "productId": "7",
+    "author": "Vikram K.",
+    "rating": 3,
+    "date": "2026-05-07",
+    "title": "Mixed feelings",
+    "comment": "It's fine for occasional use, but I expected slightly better durability at this price point.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-28",
+    "productId": "8",
+    "author": "Priya S.",
+    "rating": 3,
+    "date": "2026-05-26",
+    "title": "It's okay",
+    "comment": "Average experience overall — works, but doesn't particularly stand out.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-29",
+    "productId": "8",
+    "author": "Arun V.",
+    "rating": 5,
+    "date": "2026-05-13",
+    "title": "Couldn't ask for more",
+    "comment": "Fantastic purchase. Arrived well packaged and worked perfectly right out of the box.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-30",
+    "productId": "8",
+    "author": "Lakshmi G.",
+    "rating": 4,
+    "date": "2026-04-30",
+    "title": "Happy with this purchase",
+    "comment": "Good quality overall. Not perfect, but it's held up well across a couple of trips so far.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-31",
+    "productId": "8",
+    "author": "Aditya K.",
+    "rating": 3,
+    "date": "2026-04-17",
+    "title": "It's okay",
+    "comment": "Average experience overall — works, but doesn't particularly stand out.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-32",
+    "productId": "9",
+    "author": "Aditya D.",
+    "rating": 4,
+    "date": "2026-05-19",
+    "title": "Solid choice, minor nitpicks",
+    "comment": "Does exactly what it promises. A little bulkier than I expected, but that's a minor complaint.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-33",
+    "productId": "9",
+    "author": "Sneha S.",
+    "rating": 3,
+    "date": "2026-05-06",
+    "title": "Decent, with room to improve",
+    "comment": "Does the basic job but nothing special. Might look at other options next time.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-34",
+    "productId": "9",
+    "author": "Karthik V.",
+    "rating": 5,
+    "date": "2026-04-23",
+    "title": "Couldn't ask for more",
+    "comment": "Fantastic purchase. Arrived well packaged and worked perfectly right out of the box.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-35",
+    "productId": "9",
+    "author": "Kavya G.",
+    "rating": 4,
+    "date": "2026-04-10",
+    "title": "Happy with this purchase",
+    "comment": "Good quality overall. Not perfect, but it's held up well across a couple of trips so far.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-36",
+    "productId": "9",
+    "author": "Rohan K.",
+    "rating": 3,
+    "date": "2026-03-28",
+    "title": "Decent, with room to improve",
+    "comment": "Does the basic job but nothing special. Might look at other options next time.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-37",
+    "productId": "10",
+    "author": "Kavya T.",
+    "rating": 5,
+    "date": "2026-05-12",
+    "title": "Worth every rupee",
+    "comment": "Used this on a recent trip and it performed flawlessly. Build quality feels premium and it's clearly built to last.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-38",
+    "productId": "10",
+    "author": "Rohan D.",
+    "rating": 4,
+    "date": "2026-04-29",
+    "title": "Solid choice, minor nitpicks",
+    "comment": "Does exactly what it promises. A little bulkier than I expected, but that's a minor complaint.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-39",
+    "productId": "10",
+    "author": "Meera S.",
+    "rating": 3,
+    "date": "2026-04-16",
+    "title": "Mixed feelings",
+    "comment": "It's fine for occasional use, but I expected slightly better durability at this price point.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-40",
+    "productId": "11",
+    "author": "Rahul M.",
+    "rating": 5,
+    "date": "2026-05-05",
+    "title": "Exceeded my expectations",
+    "comment": "Fantastic purchase. Arrived well packaged and worked perfectly right out of the box.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-41",
+    "productId": "11",
+    "author": "Ananya T.",
+    "rating": 5,
+    "date": "2026-04-22",
+    "title": "Worth every rupee",
+    "comment": "Used this on a recent trip and it performed flawlessly. Build quality feels premium and it's clearly built to last.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-42",
+    "productId": "11",
+    "author": "Arjun D.",
+    "rating": 4,
+    "date": "2026-04-09",
+    "title": "Solid choice, minor nitpicks",
+    "comment": "Does exactly what it promises. A little bulkier than I expected, but that's a minor complaint.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-43",
+    "productId": "11",
+    "author": "Nisha S.",
+    "rating": 3,
+    "date": "2026-03-27",
+    "title": "It's okay",
+    "comment": "Average experience overall — works, but doesn't particularly stand out.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-44",
+    "productId": "12",
+    "author": "Nisha R.",
+    "rating": 4,
+    "date": "2026-04-28",
+    "title": "Great value overall",
+    "comment": "Solid performance for the price. Would buy again, though I wish it came in more colors.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-45",
+    "productId": "12",
+    "author": "Sanjay M.",
+    "rating": 5,
+    "date": "2026-04-15",
+    "title": "Exceeded my expectations",
+    "comment": "Fantastic purchase. Arrived well packaged and worked perfectly right out of the box.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-46",
+    "productId": "12",
+    "author": "Divya T.",
+    "rating": 5,
+    "date": "2026-04-02",
+    "title": "Worth every rupee",
+    "comment": "Used this on a recent trip and it performed flawlessly. Build quality feels premium and it's clearly built to last.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-47",
+    "productId": "12",
+    "author": "Vikram D.",
+    "rating": 4,
+    "date": "2026-03-20",
+    "title": "Solid choice, minor nitpicks",
+    "comment": "Does exactly what it promises. A little bulkier than I expected, but that's a minor complaint.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-48",
+    "productId": "12",
+    "author": "Priya S.",
+    "rating": 3,
+    "date": "2026-03-07",
+    "title": "Decent, with room to improve",
+    "comment": "Does the basic job but nothing special. Might look at other options next time.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-49",
+    "productId": "13",
+    "author": "Vikram P.",
+    "rating": 5,
+    "date": "2026-04-21",
+    "title": "My go-to gear now",
+    "comment": "Exactly as described, and the quality is even better than I expected for the price. Highly recommend.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-50",
+    "productId": "13",
+    "author": "Priya R.",
+    "rating": 4,
+    "date": "2026-04-08",
+    "title": "Great value overall",
+    "comment": "Solid performance for the price. Would buy again, though I wish it came in more colors.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-51",
+    "productId": "13",
+    "author": "Arun M.",
+    "rating": 5,
+    "date": "2026-03-26",
+    "title": "Exceeded my expectations",
+    "comment": "Fantastic purchase. Arrived well packaged and worked perfectly right out of the box.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-52",
+    "productId": "14",
+    "author": "Lakshmi N.",
+    "rating": 5,
+    "date": "2026-04-14",
+    "title": "Perfect for the trail",
+    "comment": "Used this on a recent trip and it performed flawlessly. Build quality feels premium and it's clearly built to last.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-53",
+    "productId": "14",
+    "author": "Aditya P.",
+    "rating": 5,
+    "date": "2026-04-01",
+    "title": "My go-to gear now",
+    "comment": "Exactly as described, and the quality is even better than I expected for the price. Highly recommend.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-54",
+    "productId": "14",
+    "author": "Sneha R.",
+    "rating": 4,
+    "date": "2026-03-19",
+    "title": "Great value overall",
+    "comment": "Solid performance for the price. Would buy again, though I wish it came in more colors.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-55",
+    "productId": "14",
+    "author": "Karthik M.",
+    "rating": 5,
+    "date": "2026-03-06",
+    "title": "Exceeded my expectations",
+    "comment": "Fantastic purchase. Arrived well packaged and worked perfectly right out of the box.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-56",
+    "productId": "15",
+    "author": "Karthik K.",
+    "rating": 3,
+    "date": "2026-04-07",
+    "title": "Mixed feelings",
+    "comment": "It's fine for occasional use, but I expected slightly better durability at this price point.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-57",
+    "productId": "15",
+    "author": "Kavya N.",
+    "rating": 5,
+    "date": "2026-03-25",
+    "title": "Perfect for the trail",
+    "comment": "Used this on a recent trip and it performed flawlessly. Build quality feels premium and it's clearly built to last.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-58",
+    "productId": "15",
+    "author": "Rohan P.",
+    "rating": 5,
+    "date": "2026-03-12",
+    "title": "My go-to gear now",
+    "comment": "Exactly as described, and the quality is even better than I expected for the price. Highly recommend.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-59",
+    "productId": "15",
+    "author": "Meera R.",
+    "rating": 4,
+    "date": "2026-02-27",
+    "title": "Great value overall",
+    "comment": "Solid performance for the price. Would buy again, though I wish it came in more colors.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-60",
+    "productId": "15",
+    "author": "Rahul M.",
+    "rating": 5,
+    "date": "2026-02-14",
+    "title": "Exceeded my expectations",
+    "comment": "Fantastic purchase. Arrived well packaged and worked perfectly right out of the box.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-61",
+    "productId": "16",
+    "author": "Meera G.",
+    "rating": 4,
+    "date": "2026-03-31",
+    "title": "Great value overall",
+    "comment": "Solid performance for the price. Would buy again, though I wish it came in more colors.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-62",
+    "productId": "16",
+    "author": "Rahul K.",
+    "rating": 3,
+    "date": "2026-03-18",
+    "title": "It's okay",
+    "comment": "Average experience overall — works, but doesn't particularly stand out.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-63",
+    "productId": "16",
+    "author": "Ananya N.",
+    "rating": 5,
+    "date": "2026-03-05",
+    "title": "Perfect for the trail",
+    "comment": "Used this on a recent trip and it performed flawlessly. Build quality feels premium and it's clearly built to last.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-64",
+    "productId": "17",
+    "author": "Arjun V.",
+    "rating": 5,
+    "date": "2026-03-24",
+    "title": "Couldn't ask for more",
+    "comment": "Exactly as described, and the quality is even better than I expected for the price. Highly recommend.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-65",
+    "productId": "17",
+    "author": "Nisha G.",
+    "rating": 4,
+    "date": "2026-03-11",
+    "title": "Great value overall",
+    "comment": "Solid performance for the price. Would buy again, though I wish it came in more colors.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-66",
+    "productId": "17",
+    "author": "Sanjay K.",
+    "rating": 3,
+    "date": "2026-02-26",
+    "title": "Decent, with room to improve",
+    "comment": "Does the basic job but nothing special. Might look at other options next time.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-67",
+    "productId": "17",
+    "author": "Divya N.",
+    "rating": 5,
+    "date": "2026-02-13",
+    "title": "Perfect for the trail",
+    "comment": "Used this on a recent trip and it performed flawlessly. Build quality feels premium and it's clearly built to last.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-68",
+    "productId": "18",
+    "author": "Divya S.",
+    "rating": 3,
+    "date": "2026-03-17",
+    "title": "Mixed feelings",
+    "comment": "It's fine for occasional use, but I expected slightly better durability at this price point.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-69",
+    "productId": "18",
+    "author": "Vikram V.",
+    "rating": 5,
+    "date": "2026-03-04",
+    "title": "Couldn't ask for more",
+    "comment": "Exactly as described, and the quality is even better than I expected for the price. Highly recommend.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-70",
+    "productId": "18",
+    "author": "Priya G.",
+    "rating": 4,
+    "date": "2026-02-19",
+    "title": "Great value overall",
+    "comment": "Solid performance for the price. Would buy again, though I wish it came in more colors.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-71",
+    "productId": "18",
+    "author": "Arun K.",
+    "rating": 3,
+    "date": "2026-02-06",
+    "title": "Mixed feelings",
+    "comment": "It's fine for occasional use, but I expected slightly better durability at this price point.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-72",
+    "productId": "18",
+    "author": "Lakshmi N.",
+    "rating": 5,
+    "date": "2026-01-24",
+    "title": "Perfect for the trail",
+    "comment": "Used this on a recent trip and it performed flawlessly. Build quality feels premium and it's clearly built to last.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-73",
+    "productId": "19",
+    "author": "Arun D.",
+    "rating": 4,
+    "date": "2026-03-10",
+    "title": "Does the job well",
+    "comment": "Works great for casual use. Packaging could be better but the product itself is dependable.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-74",
+    "productId": "19",
+    "author": "Lakshmi S.",
+    "rating": 3,
+    "date": "2026-02-25",
+    "title": "It's okay",
+    "comment": "Average experience overall — works, but doesn't particularly stand out.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-75",
+    "productId": "19",
+    "author": "Aditya V.",
+    "rating": 5,
+    "date": "2026-02-12",
+    "title": "Couldn't ask for more",
+    "comment": "Exactly as described, and the quality is even better than I expected for the price. Highly recommend.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-76",
+    "productId": "20",
+    "author": "Sneha T.",
+    "rating": 5,
+    "date": "2026-03-03",
+    "title": "Worth every rupee",
+    "comment": "This has quickly become one of my favorite pieces of gear. Easy to use and genuinely well made.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-77",
+    "productId": "20",
+    "author": "Karthik D.",
+    "rating": 4,
+    "date": "2026-02-18",
+    "title": "Does the job well",
+    "comment": "Works great for casual use. Packaging could be better but the product itself is dependable.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-78",
+    "productId": "20",
+    "author": "Kavya S.",
+    "rating": 3,
+    "date": "2026-02-05",
+    "title": "Decent, with room to improve",
+    "comment": "Does the basic job but nothing special. Might look at other options next time.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-79",
+    "productId": "20",
+    "author": "Rohan V.",
+    "rating": 5,
+    "date": "2026-01-23",
+    "title": "Couldn't ask for more",
+    "comment": "Exactly as described, and the quality is even better than I expected for the price. Highly recommend.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-80",
+    "productId": "21",
+    "author": "Rohan M.",
+    "rating": 5,
+    "date": "2026-02-24",
+    "title": "Exceeded my expectations",
+    "comment": "Exactly as described, and the quality is even better than I expected for the price. Highly recommend.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-81",
+    "productId": "21",
+    "author": "Meera T.",
+    "rating": 5,
+    "date": "2026-02-11",
+    "title": "Worth every rupee",
+    "comment": "This has quickly become one of my favorite pieces of gear. Easy to use and genuinely well made.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-82",
+    "productId": "21",
+    "author": "Rahul D.",
+    "rating": 4,
+    "date": "2026-01-29",
+    "title": "Does the job well",
+    "comment": "Works great for casual use. Packaging could be better but the product itself is dependable.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-83",
+    "productId": "21",
+    "author": "Ananya S.",
+    "rating": 3,
+    "date": "2026-01-16",
+    "title": "Mixed feelings",
+    "comment": "It's fine for occasional use, but I expected slightly better durability at this price point.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-84",
+    "productId": "21",
+    "author": "Arjun V.",
+    "rating": 5,
+    "date": "2026-01-03",
+    "title": "Couldn't ask for more",
+    "comment": "Exactly as described, and the quality is even better than I expected for the price. Highly recommend.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-85",
+    "productId": "22",
+    "author": "Ananya R.",
+    "rating": 4,
+    "date": "2026-02-17",
+    "title": "Happy with this purchase",
+    "comment": "Good quality overall. Not perfect, but it's held up well across a couple of trips so far.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-86",
+    "productId": "22",
+    "author": "Arjun M.",
+    "rating": 5,
+    "date": "2026-02-04",
+    "title": "Exceeded my expectations",
+    "comment": "Exactly as described, and the quality is even better than I expected for the price. Highly recommend.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-87",
+    "productId": "22",
+    "author": "Nisha T.",
+    "rating": 5,
+    "date": "2026-01-22",
+    "title": "Worth every rupee",
+    "comment": "This has quickly become one of my favorite pieces of gear. Easy to use and genuinely well made.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-88",
+    "productId": "23",
+    "author": "Sanjay P.",
+    "rating": 5,
+    "date": "2026-02-10",
+    "title": "My go-to gear now",
+    "comment": "Fantastic purchase. Arrived well packaged and worked perfectly right out of the box.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-89",
+    "productId": "23",
+    "author": "Divya R.",
+    "rating": 4,
+    "date": "2026-01-28",
+    "title": "Happy with this purchase",
+    "comment": "Good quality overall. Not perfect, but it's held up well across a couple of trips so far.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-90",
+    "productId": "23",
+    "author": "Vikram M.",
+    "rating": 5,
+    "date": "2026-01-15",
+    "title": "Exceeded my expectations",
+    "comment": "Exactly as described, and the quality is even better than I expected for the price. Highly recommend.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-91",
+    "productId": "23",
+    "author": "Priya T.",
+    "rating": 5,
+    "date": "2026-01-02",
+    "title": "Worth every rupee",
+    "comment": "This has quickly become one of my favorite pieces of gear. Easy to use and genuinely well made.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-92",
+    "productId": "24",
+    "author": "Priya N.",
+    "rating": 5,
+    "date": "2026-02-03",
+    "title": "Perfect for the trail",
+    "comment": "This has quickly become one of my favorite pieces of gear. Easy to use and genuinely well made.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-93",
+    "productId": "24",
+    "author": "Arun P.",
+    "rating": 5,
+    "date": "2026-01-21",
+    "title": "My go-to gear now",
+    "comment": "Fantastic purchase. Arrived well packaged and worked perfectly right out of the box.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-94",
+    "productId": "24",
+    "author": "Lakshmi R.",
+    "rating": 4,
+    "date": "2026-01-08",
+    "title": "Happy with this purchase",
+    "comment": "Good quality overall. Not perfect, but it's held up well across a couple of trips so far.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-95",
+    "productId": "24",
+    "author": "Aditya M.",
+    "rating": 5,
+    "date": "2025-12-26",
+    "title": "Exceeded my expectations",
+    "comment": "Exactly as described, and the quality is even better than I expected for the price. Highly recommend.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-96",
+    "productId": "24",
+    "author": "Sneha T.",
+    "rating": 5,
+    "date": "2025-12-13",
+    "title": "Worth every rupee",
+    "comment": "This has quickly become one of my favorite pieces of gear. Easy to use and genuinely well made.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-97",
+    "productId": "25",
+    "author": "Aditya K.",
+    "rating": 3,
+    "date": "2026-01-27",
+    "title": "Decent, with room to improve",
+    "comment": "Does the basic job but nothing special. Might look at other options next time.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-98",
+    "productId": "25",
+    "author": "Sneha N.",
+    "rating": 5,
+    "date": "2026-01-14",
+    "title": "Perfect for the trail",
+    "comment": "This has quickly become one of my favorite pieces of gear. Easy to use and genuinely well made.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-99",
+    "productId": "25",
+    "author": "Karthik P.",
+    "rating": 5,
+    "date": "2026-01-01",
+    "title": "My go-to gear now",
+    "comment": "Fantastic purchase. Arrived well packaged and worked perfectly right out of the box.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-100",
+    "productId": "26",
+    "author": "Kavya G.",
+    "rating": 4,
+    "date": "2026-01-20",
+    "title": "Happy with this purchase",
+    "comment": "Good quality overall. Not perfect, but it's held up well across a couple of trips so far.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-101",
+    "productId": "26",
+    "author": "Rohan K.",
+    "rating": 3,
+    "date": "2026-01-07",
+    "title": "Mixed feelings",
+    "comment": "It's fine for occasional use, but I expected slightly better durability at this price point.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-102",
+    "productId": "26",
+    "author": "Meera N.",
+    "rating": 5,
+    "date": "2025-12-25",
+    "title": "Perfect for the trail",
+    "comment": "This has quickly become one of my favorite pieces of gear. Easy to use and genuinely well made.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-103",
+    "productId": "26",
+    "author": "Rahul P.",
+    "rating": 5,
+    "date": "2025-12-12",
+    "title": "My go-to gear now",
+    "comment": "Fantastic purchase. Arrived well packaged and worked perfectly right out of the box.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-104",
+    "productId": "27",
+    "author": "Rahul V.",
+    "rating": 5,
+    "date": "2026-01-13",
+    "title": "Couldn't ask for more",
+    "comment": "Fantastic purchase. Arrived well packaged and worked perfectly right out of the box.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-105",
+    "productId": "27",
+    "author": "Ananya G.",
+    "rating": 4,
+    "date": "2025-12-31",
+    "title": "Happy with this purchase",
+    "comment": "Good quality overall. Not perfect, but it's held up well across a couple of trips so far.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-106",
+    "productId": "27",
+    "author": "Arjun K.",
+    "rating": 3,
+    "date": "2025-12-18",
+    "title": "It's okay",
+    "comment": "Average experience overall — works, but doesn't particularly stand out.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-107",
+    "productId": "27",
+    "author": "Nisha N.",
+    "rating": 5,
+    "date": "2025-12-05",
+    "title": "Perfect for the trail",
+    "comment": "This has quickly become one of my favorite pieces of gear. Easy to use and genuinely well made.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-108",
+    "productId": "27",
+    "author": "Sanjay P.",
+    "rating": 5,
+    "date": "2025-11-22",
+    "title": "My go-to gear now",
+    "comment": "Fantastic purchase. Arrived well packaged and worked perfectly right out of the box.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-109",
+    "productId": "28",
+    "author": "Nisha S.",
+    "rating": 3,
+    "date": "2026-01-06",
+    "title": "Decent, with room to improve",
+    "comment": "Does the basic job but nothing special. Might look at other options next time.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-110",
+    "productId": "28",
+    "author": "Sanjay V.",
+    "rating": 5,
+    "date": "2025-12-24",
+    "title": "Couldn't ask for more",
+    "comment": "Fantastic purchase. Arrived well packaged and worked perfectly right out of the box.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-111",
+    "productId": "28",
+    "author": "Divya G.",
+    "rating": 4,
+    "date": "2025-12-11",
+    "title": "Happy with this purchase",
+    "comment": "Good quality overall. Not perfect, but it's held up well across a couple of trips so far.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-112",
+    "productId": "29",
+    "author": "Vikram D.",
+    "rating": 4,
+    "date": "2025-12-30",
+    "title": "Solid choice, minor nitpicks",
+    "comment": "Does exactly what it promises. A little bulkier than I expected, but that's a minor complaint.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-113",
+    "productId": "29",
+    "author": "Priya S.",
+    "rating": 3,
+    "date": "2025-12-17",
+    "title": "Mixed feelings",
+    "comment": "It's fine for occasional use, but I expected slightly better durability at this price point.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-114",
+    "productId": "29",
+    "author": "Arun V.",
+    "rating": 5,
+    "date": "2025-12-04",
+    "title": "Couldn't ask for more",
+    "comment": "Fantastic purchase. Arrived well packaged and worked perfectly right out of the box.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-115",
+    "productId": "29",
+    "author": "Lakshmi G.",
+    "rating": 4,
+    "date": "2025-11-21",
+    "title": "Happy with this purchase",
+    "comment": "Good quality overall. Not perfect, but it's held up well across a couple of trips so far.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-116",
+    "productId": "30",
+    "author": "Lakshmi T.",
+    "rating": 5,
+    "date": "2025-12-23",
+    "title": "Worth every rupee",
+    "comment": "Used this on a recent trip and it performed flawlessly. Build quality feels premium and it's clearly built to last.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-117",
+    "productId": "30",
+    "author": "Aditya D.",
+    "rating": 4,
+    "date": "2025-12-10",
+    "title": "Solid choice, minor nitpicks",
+    "comment": "Does exactly what it promises. A little bulkier than I expected, but that's a minor complaint.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-118",
+    "productId": "30",
+    "author": "Sneha S.",
+    "rating": 3,
+    "date": "2025-11-27",
+    "title": "It's okay",
+    "comment": "Average experience overall — works, but doesn't particularly stand out.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-119",
+    "productId": "30",
+    "author": "Karthik V.",
+    "rating": 5,
+    "date": "2025-11-14",
+    "title": "Couldn't ask for more",
+    "comment": "Fantastic purchase. Arrived well packaged and worked perfectly right out of the box.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-120",
+    "productId": "30",
+    "author": "Kavya G.",
+    "rating": 4,
+    "date": "2025-11-01",
+    "title": "Happy with this purchase",
+    "comment": "Good quality overall. Not perfect, but it's held up well across a couple of trips so far.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-121",
+    "productId": "31",
+    "author": "Karthik M.",
+    "rating": 5,
+    "date": "2025-12-16",
+    "title": "Exceeded my expectations",
+    "comment": "Fantastic purchase. Arrived well packaged and worked perfectly right out of the box.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-122",
+    "productId": "31",
+    "author": "Kavya T.",
+    "rating": 5,
+    "date": "2025-12-03",
+    "title": "Worth every rupee",
+    "comment": "Used this on a recent trip and it performed flawlessly. Build quality feels premium and it's clearly built to last.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-123",
+    "productId": "31",
+    "author": "Rohan D.",
+    "rating": 4,
+    "date": "2025-11-20",
+    "title": "Solid choice, minor nitpicks",
+    "comment": "Does exactly what it promises. A little bulkier than I expected, but that's a minor complaint.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-124",
+    "productId": "32",
+    "author": "Meera R.",
+    "rating": 4,
+    "date": "2025-12-09",
+    "title": "Great value overall",
+    "comment": "Solid performance for the price. Would buy again, though I wish it came in more colors.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-125",
+    "productId": "32",
+    "author": "Rahul M.",
+    "rating": 5,
+    "date": "2025-11-26",
+    "title": "Exceeded my expectations",
+    "comment": "Fantastic purchase. Arrived well packaged and worked perfectly right out of the box.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-126",
+    "productId": "32",
+    "author": "Ananya T.",
+    "rating": 5,
+    "date": "2025-11-13",
+    "title": "Worth every rupee",
+    "comment": "Used this on a recent trip and it performed flawlessly. Build quality feels premium and it's clearly built to last.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-127",
+    "productId": "32",
+    "author": "Arjun D.",
+    "rating": 4,
+    "date": "2025-10-31",
+    "title": "Solid choice, minor nitpicks",
+    "comment": "Does exactly what it promises. A little bulkier than I expected, but that's a minor complaint.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-128",
+    "productId": "33",
+    "author": "Arjun P.",
+    "rating": 5,
+    "date": "2025-12-02",
+    "title": "My go-to gear now",
+    "comment": "Exactly as described, and the quality is even better than I expected for the price. Highly recommend.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-129",
+    "productId": "33",
+    "author": "Nisha R.",
+    "rating": 4,
+    "date": "2025-11-19",
+    "title": "Great value overall",
+    "comment": "Solid performance for the price. Would buy again, though I wish it came in more colors.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-130",
+    "productId": "33",
+    "author": "Sanjay M.",
+    "rating": 5,
+    "date": "2025-11-06",
+    "title": "Exceeded my expectations",
+    "comment": "Fantastic purchase. Arrived well packaged and worked perfectly right out of the box.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-131",
+    "productId": "33",
+    "author": "Divya T.",
+    "rating": 5,
+    "date": "2025-10-24",
+    "title": "Worth every rupee",
+    "comment": "Used this on a recent trip and it performed flawlessly. Build quality feels premium and it's clearly built to last.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-132",
+    "productId": "33",
+    "author": "Vikram D.",
+    "rating": 4,
+    "date": "2025-10-11",
+    "title": "Solid choice, minor nitpicks",
+    "comment": "Does exactly what it promises. A little bulkier than I expected, but that's a minor complaint.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-133",
+    "productId": "34",
+    "author": "Divya N.",
+    "rating": 5,
+    "date": "2025-11-25",
+    "title": "Perfect for the trail",
+    "comment": "Used this on a recent trip and it performed flawlessly. Build quality feels premium and it's clearly built to last.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-134",
+    "productId": "34",
+    "author": "Vikram P.",
+    "rating": 5,
+    "date": "2025-11-12",
+    "title": "My go-to gear now",
+    "comment": "Exactly as described, and the quality is even better than I expected for the price. Highly recommend.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-135",
+    "productId": "34",
+    "author": "Priya R.",
+    "rating": 4,
+    "date": "2025-10-30",
+    "title": "Great value overall",
+    "comment": "Solid performance for the price. Would buy again, though I wish it came in more colors.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-136",
+    "productId": "35",
+    "author": "Arun K.",
+    "rating": 3,
+    "date": "2025-11-18",
+    "title": "It's okay",
+    "comment": "Average experience overall — works, but doesn't particularly stand out.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-137",
+    "productId": "35",
+    "author": "Lakshmi N.",
+    "rating": 5,
+    "date": "2025-11-05",
+    "title": "Perfect for the trail",
+    "comment": "Used this on a recent trip and it performed flawlessly. Build quality feels premium and it's clearly built to last.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-138",
+    "productId": "35",
+    "author": "Aditya P.",
+    "rating": 5,
+    "date": "2025-10-23",
+    "title": "My go-to gear now",
+    "comment": "Exactly as described, and the quality is even better than I expected for the price. Highly recommend.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-139",
+    "productId": "35",
+    "author": "Sneha R.",
+    "rating": 4,
+    "date": "2025-10-10",
+    "title": "Great value overall",
+    "comment": "Solid performance for the price. Would buy again, though I wish it came in more colors.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-140",
+    "productId": "36",
+    "author": "Sneha G.",
+    "rating": 4,
+    "date": "2025-11-11",
+    "title": "Great value overall",
+    "comment": "Solid performance for the price. Would buy again, though I wish it came in more colors.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-141",
+    "productId": "36",
+    "author": "Karthik K.",
+    "rating": 3,
+    "date": "2025-10-29",
+    "title": "Decent, with room to improve",
+    "comment": "Does the basic job but nothing special. Might look at other options next time.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-142",
+    "productId": "36",
+    "author": "Kavya N.",
+    "rating": 5,
+    "date": "2025-10-16",
+    "title": "Perfect for the trail",
+    "comment": "Used this on a recent trip and it performed flawlessly. Build quality feels premium and it's clearly built to last.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-143",
+    "productId": "36",
+    "author": "Rohan P.",
+    "rating": 5,
+    "date": "2025-10-03",
+    "title": "My go-to gear now",
+    "comment": "Exactly as described, and the quality is even better than I expected for the price. Highly recommend.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-144",
+    "productId": "36",
+    "author": "Meera R.",
+    "rating": 4,
+    "date": "2025-09-20",
+    "title": "Great value overall",
+    "comment": "Solid performance for the price. Would buy again, though I wish it came in more colors.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-145",
+    "productId": "37",
+    "author": "Rohan V.",
+    "rating": 5,
+    "date": "2025-11-04",
+    "title": "Couldn't ask for more",
+    "comment": "Exactly as described, and the quality is even better than I expected for the price. Highly recommend.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-146",
+    "productId": "37",
+    "author": "Meera G.",
+    "rating": 4,
+    "date": "2025-10-22",
+    "title": "Great value overall",
+    "comment": "Solid performance for the price. Would buy again, though I wish it came in more colors.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-147",
+    "productId": "37",
+    "author": "Rahul K.",
+    "rating": 3,
+    "date": "2025-10-09",
+    "title": "Mixed feelings",
+    "comment": "It's fine for occasional use, but I expected slightly better durability at this price point.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-148",
+    "productId": "38",
+    "author": "Ananya S.",
+    "rating": 3,
+    "date": "2025-10-28",
+    "title": "It's okay",
+    "comment": "Average experience overall — works, but doesn't particularly stand out.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-149",
+    "productId": "38",
+    "author": "Arjun V.",
+    "rating": 5,
+    "date": "2025-10-15",
+    "title": "Couldn't ask for more",
+    "comment": "Exactly as described, and the quality is even better than I expected for the price. Highly recommend.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-150",
+    "productId": "38",
+    "author": "Nisha G.",
+    "rating": 4,
+    "date": "2025-10-02",
+    "title": "Great value overall",
+    "comment": "Solid performance for the price. Would buy again, though I wish it came in more colors.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-151",
+    "productId": "38",
+    "author": "Sanjay K.",
+    "rating": 3,
+    "date": "2025-09-19",
+    "title": "It's okay",
+    "comment": "Average experience overall — works, but doesn't particularly stand out.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-152",
+    "productId": "39",
+    "author": "Sanjay D.",
+    "rating": 4,
+    "date": "2025-10-21",
+    "title": "Does the job well",
+    "comment": "Works great for casual use. Packaging could be better but the product itself is dependable.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-153",
+    "productId": "39",
+    "author": "Divya S.",
+    "rating": 3,
+    "date": "2025-10-08",
+    "title": "Decent, with room to improve",
+    "comment": "Does the basic job but nothing special. Might look at other options next time.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-154",
+    "productId": "39",
+    "author": "Vikram V.",
+    "rating": 5,
+    "date": "2025-09-25",
+    "title": "Couldn't ask for more",
+    "comment": "Exactly as described, and the quality is even better than I expected for the price. Highly recommend.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-155",
+    "productId": "39",
+    "author": "Priya G.",
+    "rating": 4,
+    "date": "2026-07-09",
+    "title": "Great value overall",
+    "comment": "Solid performance for the price. Would buy again, though I wish it came in more colors.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-156",
+    "productId": "39",
+    "author": "Arun K.",
+    "rating": 3,
+    "date": "2026-06-26",
+    "title": "Decent, with room to improve",
+    "comment": "Does the basic job but nothing special. Might look at other options next time.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-157",
+    "productId": "40",
+    "author": "Priya T.",
+    "rating": 5,
+    "date": "2025-10-14",
+    "title": "Worth every rupee",
+    "comment": "This has quickly become one of my favorite pieces of gear. Easy to use and genuinely well made.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-158",
+    "productId": "40",
+    "author": "Arun D.",
+    "rating": 4,
+    "date": "2025-10-01",
+    "title": "Does the job well",
+    "comment": "Works great for casual use. Packaging could be better but the product itself is dependable.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-159",
+    "productId": "40",
+    "author": "Lakshmi S.",
+    "rating": 3,
+    "date": "2025-09-18",
+    "title": "Mixed feelings",
+    "comment": "It's fine for occasional use, but I expected slightly better durability at this price point.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-160",
+    "productId": "41",
+    "author": "Aditya M.",
+    "rating": 5,
+    "date": "2025-10-07",
+    "title": "Exceeded my expectations",
+    "comment": "Exactly as described, and the quality is even better than I expected for the price. Highly recommend.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-161",
+    "productId": "41",
+    "author": "Sneha T.",
+    "rating": 5,
+    "date": "2025-09-24",
+    "title": "Worth every rupee",
+    "comment": "This has quickly become one of my favorite pieces of gear. Easy to use and genuinely well made.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-162",
+    "productId": "41",
+    "author": "Karthik D.",
+    "rating": 4,
+    "date": "2026-07-08",
+    "title": "Does the job well",
+    "comment": "Works great for casual use. Packaging could be better but the product itself is dependable.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-163",
+    "productId": "41",
+    "author": "Kavya S.",
+    "rating": 3,
+    "date": "2026-06-25",
+    "title": "It's okay",
+    "comment": "Average experience overall — works, but doesn't particularly stand out.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-164",
+    "productId": "42",
+    "author": "Kavya R.",
+    "rating": 4,
+    "date": "2025-09-30",
+    "title": "Happy with this purchase",
+    "comment": "Good quality overall. Not perfect, but it's held up well across a couple of trips so far.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-165",
+    "productId": "42",
+    "author": "Rohan M.",
+    "rating": 5,
+    "date": "2026-07-14",
+    "title": "Exceeded my expectations",
+    "comment": "Exactly as described, and the quality is even better than I expected for the price. Highly recommend.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-166",
+    "productId": "42",
+    "author": "Meera T.",
+    "rating": 5,
+    "date": "2026-07-01",
+    "title": "Worth every rupee",
+    "comment": "This has quickly become one of my favorite pieces of gear. Easy to use and genuinely well made.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-167",
+    "productId": "42",
+    "author": "Rahul D.",
+    "rating": 4,
+    "date": "2026-06-18",
+    "title": "Does the job well",
+    "comment": "Works great for casual use. Packaging could be better but the product itself is dependable.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-168",
+    "productId": "42",
+    "author": "Ananya S.",
+    "rating": 3,
+    "date": "2026-06-05",
+    "title": "Decent, with room to improve",
+    "comment": "Does the basic job but nothing special. Might look at other options next time.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-169",
+    "productId": "43",
+    "author": "Rahul P.",
+    "rating": 5,
+    "date": "2025-09-23",
+    "title": "My go-to gear now",
+    "comment": "Fantastic purchase. Arrived well packaged and worked perfectly right out of the box.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-170",
+    "productId": "43",
+    "author": "Ananya R.",
+    "rating": 4,
+    "date": "2026-07-07",
+    "title": "Happy with this purchase",
+    "comment": "Good quality overall. Not perfect, but it's held up well across a couple of trips so far.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-171",
+    "productId": "43",
+    "author": "Arjun M.",
+    "rating": 5,
+    "date": "2026-06-24",
+    "title": "Exceeded my expectations",
+    "comment": "Exactly as described, and the quality is even better than I expected for the price. Highly recommend.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-172",
+    "productId": "44",
+    "author": "Nisha N.",
+    "rating": 5,
+    "date": "2026-07-13",
+    "title": "Perfect for the trail",
+    "comment": "This has quickly become one of my favorite pieces of gear. Easy to use and genuinely well made.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-173",
+    "productId": "44",
+    "author": "Sanjay P.",
+    "rating": 5,
+    "date": "2026-06-30",
+    "title": "My go-to gear now",
+    "comment": "Fantastic purchase. Arrived well packaged and worked perfectly right out of the box.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-174",
+    "productId": "44",
+    "author": "Divya R.",
+    "rating": 4,
+    "date": "2026-06-17",
+    "title": "Happy with this purchase",
+    "comment": "Good quality overall. Not perfect, but it's held up well across a couple of trips so far.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-175",
+    "productId": "44",
+    "author": "Vikram M.",
+    "rating": 5,
+    "date": "2026-06-04",
+    "title": "Exceeded my expectations",
+    "comment": "Exactly as described, and the quality is even better than I expected for the price. Highly recommend.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-176",
+    "productId": "45",
+    "author": "Vikram K.",
+    "rating": 3,
+    "date": "2026-07-06",
+    "title": "Mixed feelings",
+    "comment": "It's fine for occasional use, but I expected slightly better durability at this price point.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-177",
+    "productId": "45",
+    "author": "Priya N.",
+    "rating": 5,
+    "date": "2026-06-23",
+    "title": "Perfect for the trail",
+    "comment": "This has quickly become one of my favorite pieces of gear. Easy to use and genuinely well made.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-178",
+    "productId": "45",
+    "author": "Arun P.",
+    "rating": 5,
+    "date": "2026-06-10",
+    "title": "My go-to gear now",
+    "comment": "Fantastic purchase. Arrived well packaged and worked perfectly right out of the box.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-179",
+    "productId": "45",
+    "author": "Lakshmi R.",
+    "rating": 4,
+    "date": "2026-05-28",
+    "title": "Happy with this purchase",
+    "comment": "Good quality overall. Not perfect, but it's held up well across a couple of trips so far.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-180",
+    "productId": "45",
+    "author": "Aditya M.",
+    "rating": 5,
+    "date": "2026-05-15",
+    "title": "Exceeded my expectations",
+    "comment": "Exactly as described, and the quality is even better than I expected for the price. Highly recommend.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-181",
+    "productId": "46",
+    "author": "Lakshmi G.",
+    "rating": 4,
+    "date": "2026-06-29",
+    "title": "Happy with this purchase",
+    "comment": "Good quality overall. Not perfect, but it's held up well across a couple of trips so far.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-182",
+    "productId": "46",
+    "author": "Aditya K.",
+    "rating": 3,
+    "date": "2026-06-16",
+    "title": "It's okay",
+    "comment": "Average experience overall — works, but doesn't particularly stand out.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-183",
+    "productId": "46",
+    "author": "Sneha N.",
+    "rating": 5,
+    "date": "2026-06-03",
+    "title": "Perfect for the trail",
+    "comment": "This has quickly become one of my favorite pieces of gear. Easy to use and genuinely well made.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-184",
+    "productId": "47",
+    "author": "Karthik V.",
+    "rating": 5,
+    "date": "2026-06-22",
+    "title": "Couldn't ask for more",
+    "comment": "Fantastic purchase. Arrived well packaged and worked perfectly right out of the box.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-185",
+    "productId": "47",
+    "author": "Kavya G.",
+    "rating": 4,
+    "date": "2026-06-09",
+    "title": "Happy with this purchase",
+    "comment": "Good quality overall. Not perfect, but it's held up well across a couple of trips so far.",
+    "verifiedPurchase": true
+  },
+  {
+    "id": "rev-186",
+    "productId": "47",
+    "author": "Rohan K.",
+    "rating": 3,
+    "date": "2026-05-27",
+    "title": "Decent, with room to improve",
+    "comment": "Does the basic job but nothing special. Might look at other options next time.",
+    "verifiedPurchase": false
+  },
+  {
+    "id": "rev-187",
+    "productId": "47",
+    "author": "Meera N.",
+    "rating": 5,
+    "date": "2026-05-14",
+    "title": "Perfect for the trail",
+    "comment": "This has quickly become one of my favorite pieces of gear. Easy to use and genuinely well made.",
+    "verifiedPurchase": true
+  }
+]
