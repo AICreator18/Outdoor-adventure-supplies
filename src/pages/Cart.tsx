@@ -12,11 +12,14 @@ import { formatCurrency } from "../utils/formatCurrency";
 import { getShippingEstimate, isValidIndianPincode, FREE_SHIPPING_THRESHOLD } from "../utils/shipping";
 import { isValidGstin } from "../utils/gst";
 import { isValidEmail } from "../utils/validation";
-import { validatePromoCode, WELCOME_CODE, type PromoSuccess } from "../utils/promo";
+import { validatePromoCode, WELCOME_CODE } from "../utils/promo";
 
 export default function Cart() {
   const navigate = useNavigate();
-  const { items, subtotal, taxAmount, grandTotal, clearCart, itemCount } = useCart();
+  const {
+    items, subtotal, taxAmount, grandTotal, clearCart, itemCount,
+    appliedPromo, setAppliedPromo, discountAmount, gstin: gstinConfirmed, setGstin,
+  } = useCart();
   const { showToast } = useToast();
   const [confirmClearOpen, setConfirmClearOpen] = useState(false);
   // Shared with TopBar's delivery-check widget, so entering it once anywhere
@@ -24,20 +27,18 @@ export default function Cart() {
   const [savedPincode, setSavedPincode] = useLocalStorage<string>("oas-delivery-pincode", "");
   const [pincode, setPincode] = useState("");
   const [pincodeError, setPincodeError] = useState("");
-  const [gstin, setGstin] = useState("");
-  const [gstinConfirmed, setGstinConfirmed] = useState<string | null>(null);
+  const [gstinInput, setGstinInput] = useState("");
   const [gstinError, setGstinError] = useState("");
 
   const [isSubscribed, setIsSubscribed] = useLocalStorage<boolean>("oas-newsletter-subscribed", false);
   const [newsletterEmail, setNewsletterEmail] = useState("");
   const [newsletterError, setNewsletterError] = useState("");
   const [promoInput, setPromoInput] = useState("");
-  const [appliedPromo, setAppliedPromo] = useState<PromoSuccess | null>(null);
   const [promoError, setPromoError] = useState("");
+  const [showPromoGst, setShowPromoGst] = useState(false);
 
   const shipping = savedPincode ? getShippingEstimate(savedPincode, subtotal) : null;
   const shippingCharge = shipping?.charge ?? 0;
-  const discountAmount = appliedPromo ? subtotal * appliedPromo.discountRate : 0;
 
   const handleSubscribe = () => {
     if (!isValidEmail(newsletterEmail)) {
@@ -70,13 +71,13 @@ export default function Cart() {
   };
 
   const handleSaveGstin = () => {
-    if (!isValidGstin(gstin)) {
+    if (!isValidGstin(gstinInput)) {
       setGstinError("Enter a valid 15-character GSTIN.");
-      setGstinConfirmed(null);
+      setGstin(null);
       return;
     }
     setGstinError("");
-    setGstinConfirmed(gstin.trim().toUpperCase());
+    setGstin(gstinInput.trim().toUpperCase());
   };
 
   const handleClearCart = () => {
@@ -138,120 +139,12 @@ export default function Cart() {
               <span className="text-stone-gray small">Includes GST (18%)</span>
               <span className="text-stone-gray small">{formatCurrency(taxAmount)}</span>
             </div>
-            <p className="text-stone-gray small mb-3">
-              All prices shown are inclusive of 18% GST. Business purchases with a valid GSTIN can claim
-              this as input tax credit — a GST invoice will be issued to the GSTIN below.
-            </p>
-
-            <div className="mb-3">
-              <label htmlFor="cart-gstin" className="small text-stone-gray mb-1 d-block">
-                Business purchase? Add your GSTIN to claim GST
-              </label>
-              <div className="input-group input-group-sm">
-                <input
-                  id="cart-gstin"
-                  type="text"
-                  maxLength={15}
-                  className={`form-control text-uppercase ${gstinError ? "is-invalid" : ""}`}
-                  placeholder="e.g. 29AABCU9603R1ZM"
-                  value={gstin}
-                  onChange={(event) => {
-                    setGstin(event.target.value.toUpperCase());
-                    setGstinError("");
-                  }}
-                />
-                <Button variant="outline" onClick={handleSaveGstin}>
-                  Save
-                </Button>
-              </div>
-              {gstinError && <p className="text-warm-orange-on-light small mt-1 mb-0">{gstinError}</p>}
-              {gstinConfirmed && (
-                <p className="small text-forest mt-1 mb-0">
-                  <i className="bi bi-check-circle-fill me-1" aria-hidden="true" />
-                  GST invoice will be issued to {gstinConfirmed}
-                </p>
-              )}
-            </div>
-
-            {!isSubscribed && (
-              <div
-                className="bg-white rounded-md p-3 mb-3 border"
-                style={{ borderColor: "var(--color-warm-orange)" }}
-              >
-                <p className="fw-semibold small mb-1">
-                  <i className="bi bi-envelope-paper me-1" aria-hidden="true" />
-                  Get 5% off as a welcome bonus
-                </p>
-                <p className="text-stone-gray small mb-2">
-                  Subscribe with your email to unlock code {WELCOME_CODE} — valid all of August.
-                </p>
-                <div className="input-group input-group-sm">
-                  <input
-                    type="email"
-                    className={`form-control ${newsletterError ? "is-invalid" : ""}`}
-                    placeholder="Enter your email"
-                    value={newsletterEmail}
-                    onChange={(event) => {
-                      setNewsletterEmail(event.target.value);
-                      setNewsletterError("");
-                    }}
-                  />
-                  <Button variant="orange" onClick={handleSubscribe}>
-                    Subscribe
-                  </Button>
-                </div>
-                {newsletterError && (
-                  <p className="text-warm-orange-on-light small mt-1 mb-0">{newsletterError}</p>
-                )}
-              </div>
+            {gstinConfirmed && (
+              <p className="small text-forest mb-2">
+                <i className="bi bi-check-circle-fill me-1" aria-hidden="true" />
+                GST invoice will be issued to {gstinConfirmed}
+              </p>
             )}
-
-            <div className="mb-3">
-              <label htmlFor="cart-promo" className="small text-stone-gray mb-1 d-block">
-                Have a promo code?
-              </label>
-              {appliedPromo ? (
-                <p className="small text-forest mb-0">
-                  <i className="bi bi-check-circle-fill me-1" aria-hidden="true" />
-                  {appliedPromo.label} applied
-                  <button
-                    type="button"
-                    className="btn btn-link btn-sm p-0 ms-2 align-baseline"
-                    onClick={() => {
-                      setAppliedPromo(null);
-                      setPromoInput("");
-                    }}
-                  >
-                    Remove
-                  </button>
-                </p>
-              ) : (
-                <>
-                  <div className="input-group input-group-sm">
-                    <input
-                      id="cart-promo"
-                      type="text"
-                      className={`form-control text-uppercase ${promoError ? "is-invalid" : ""}`}
-                      placeholder="Enter promo code"
-                      value={promoInput}
-                      onChange={(event) => {
-                        setPromoInput(event.target.value.toUpperCase());
-                        setPromoError("");
-                      }}
-                    />
-                    <Button variant="outline" onClick={handleApplyPromo}>
-                      Apply
-                    </Button>
-                  </div>
-                  {promoError && <p className="text-warm-orange-on-light small mt-1 mb-0">{promoError}</p>}
-                  {isSubscribed && (
-                    <p className="text-stone-gray small mt-1 mb-0">
-                      You've unlocked {WELCOME_CODE} — valid all of August.
-                    </p>
-                  )}
-                </>
-              )}
-            </div>
 
             <div className="mb-3">
               <label htmlFor="cart-pincode" className="small text-stone-gray mb-1 d-block">
@@ -328,9 +221,124 @@ export default function Cart() {
                 {formatCurrency(grandTotal + shippingCharge - discountAmount)}
               </span>
             </div>
-            <Button variant="orange" fullWidth size="lg" onClick={handleCheckout}>
+            <Button variant="orange" fullWidth size="lg" onClick={handleCheckout} className="mb-3">
               Proceed to Checkout
             </Button>
+
+            {!(gstinConfirmed && appliedPromo) && (
+              showPromoGst ? (
+                <div className="pt-3 border-top">
+                  {!appliedPromo && (
+                    <div className="mb-3">
+                      <label htmlFor="cart-promo" className="small text-stone-gray mb-1 d-block">
+                        Have a promo code?
+                      </label>
+                      <div className="input-group input-group-sm">
+                        <input
+                          id="cart-promo"
+                          type="text"
+                          className={`form-control text-uppercase ${promoError ? "is-invalid" : ""}`}
+                          placeholder="Enter promo code"
+                          value={promoInput}
+                          onChange={(event) => {
+                            setPromoInput(event.target.value.toUpperCase());
+                            setPromoError("");
+                          }}
+                        />
+                        <Button variant="outline" onClick={handleApplyPromo}>
+                          Apply
+                        </Button>
+                      </div>
+                      {promoError && (
+                        <p className="text-warm-orange-on-light small mt-1 mb-0">{promoError}</p>
+                      )}
+                      {isSubscribed && (
+                        <p className="text-stone-gray small mt-1 mb-0">
+                          You've unlocked {WELCOME_CODE} — valid all of August.
+                        </p>
+                      )}
+                    </div>
+                  )}
+
+                  {!appliedPromo && !isSubscribed && (
+                    <div
+                      className="bg-white rounded-md p-3 mb-3 border"
+                      style={{ borderColor: "var(--color-warm-orange)" }}
+                    >
+                      <p className="fw-semibold small mb-1">
+                        <i className="bi bi-envelope-paper me-1" aria-hidden="true" />
+                        Get 5% off as a welcome bonus
+                      </p>
+                      <p className="text-stone-gray small mb-2">
+                        Subscribe with your email to unlock code {WELCOME_CODE} — valid all of August.
+                      </p>
+                      <div className="input-group input-group-sm">
+                        <input
+                          type="email"
+                          className={`form-control ${newsletterError ? "is-invalid" : ""}`}
+                          placeholder="Enter your email"
+                          value={newsletterEmail}
+                          onChange={(event) => {
+                            setNewsletterEmail(event.target.value);
+                            setNewsletterError("");
+                          }}
+                        />
+                        <Button variant="orange" onClick={handleSubscribe}>
+                          Subscribe
+                        </Button>
+                      </div>
+                      {newsletterError && (
+                        <p className="text-warm-orange-on-light small mt-1 mb-0">{newsletterError}</p>
+                      )}
+                    </div>
+                  )}
+
+                  {!gstinConfirmed && (
+                    <div className="mb-2">
+                      <label htmlFor="cart-gstin" className="small text-stone-gray mb-1 d-block">
+                        Business purchase? Add your GSTIN to claim GST
+                      </label>
+                      <div className="input-group input-group-sm">
+                        <input
+                          id="cart-gstin"
+                          type="text"
+                          maxLength={15}
+                          className={`form-control text-uppercase ${gstinError ? "is-invalid" : ""}`}
+                          placeholder="e.g. 29AABCU9603R1ZM"
+                          value={gstinInput}
+                          onChange={(event) => {
+                            setGstinInput(event.target.value.toUpperCase());
+                            setGstinError("");
+                          }}
+                        />
+                        <Button variant="outline" onClick={handleSaveGstin}>
+                          Save
+                        </Button>
+                      </div>
+                      {gstinError && (
+                        <p className="text-warm-orange-on-light small mt-1 mb-0">{gstinError}</p>
+                      )}
+                    </div>
+                  )}
+
+                  <button
+                    type="button"
+                    className="btn btn-link btn-sm p-0"
+                    onClick={() => setShowPromoGst(false)}
+                  >
+                    Hide
+                  </button>
+                </div>
+              ) : (
+                <button
+                  type="button"
+                  className="btn btn-link btn-sm p-0 d-block mx-auto text-center w-100"
+                  onClick={() => setShowPromoGst(true)}
+                >
+                  {appliedPromo ? "Add GST details" : gstinConfirmed ? "Have a promo code?" : "Have a promo code or need a GST invoice?"}
+                </button>
+              )
+            )}
           </div>
         </div>
       </div>

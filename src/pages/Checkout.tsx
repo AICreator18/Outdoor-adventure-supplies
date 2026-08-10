@@ -16,7 +16,7 @@ function generateOrderId() {
 
 export default function Checkout() {
   const navigate = useNavigate();
-  const { items, subtotal, clearCart } = useCart();
+  const { items, subtotal, clearCart, appliedPromo, discountAmount, gstin } = useCart();
   const [step, setStep] = useState<1 | 2 | 3>(1);
   const [address, setAddress] = useState<AddressData | null>(null);
   const [payment, setPayment] = useState<PaymentData | null>(null);
@@ -44,7 +44,10 @@ export default function Checkout() {
       payment: data,
       subtotal,
       shippingCharge,
-      grandTotal: subtotal + shippingCharge + codFee,
+      discountAmount,
+      promoCode: appliedPromo?.code,
+      gstin,
+      grandTotal: subtotal + shippingCharge + codFee - discountAmount,
       shippingEstimate: shipping?.estimate ?? "5–7 business days",
     };
     setOrder(placedOrder);
@@ -61,7 +64,7 @@ export default function Checkout() {
         {step === 3 && order ? (
           <ConfirmationStep order={order} onContinueShopping={() => navigate("/products")} />
         ) : (
-          <div className="row g-5">
+          <div className="row g-4 g-lg-5">
             <div className="col-lg-7">
               {step === 1 && (
                 <AddressStep initial={address} onNext={handleAddressNext} />
@@ -72,6 +75,7 @@ export default function Checkout() {
                   address={address}
                   subtotal={subtotal}
                   shippingCharge={shippingCharge}
+                  discountAmount={discountAmount}
                   onBack={() => { setPayment(null); setStep(1); }}
                   onNext={handlePaymentNext}
                 />
@@ -116,10 +120,18 @@ export default function Checkout() {
                         : formatCurrency(shippingCharge)}
                   </span>
                 </div>
+                {appliedPromo && (
+                  <div className="d-flex justify-content-between small mb-2">
+                    <span className="text-forest">Promo ({appliedPromo.code})</span>
+                    <span className="text-forest">-{formatCurrency(discountAmount)}</span>
+                  </div>
+                )}
                 <hr className="my-2" />
                 <div className="d-flex justify-content-between fw-bold">
                   <span>Total</span>
-                  <span className="text-forest">{formatCurrency(subtotal + shippingCharge)}</span>
+                  <span className="text-forest">
+                    {formatCurrency(subtotal + shippingCharge - discountAmount)}
+                  </span>
                 </div>
                 {shipping && !shipping.isFree && subtotal < FREE_SHIPPING_THRESHOLD && (
                   <p className="small text-stone-gray mt-2 mb-0">

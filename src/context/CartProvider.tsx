@@ -1,11 +1,14 @@
-import { useCallback, useMemo, type ReactNode } from "react";
+import { useCallback, useMemo, useState, type ReactNode } from "react";
 import type { CartItem, Product } from "../types";
 import { useLocalStorage } from "../hooks/useLocalStorage";
 import { extractGstFromInclusivePrice } from "../utils/gst";
+import type { PromoSuccess } from "../utils/promo";
 import { CartContext, type CartContextValue } from "./CartContext";
 
 export function CartProvider({ children }: { children: ReactNode }) {
   const [items, setItems] = useLocalStorage<CartItem[]>("oas-cart", []);
+  const [appliedPromo, setAppliedPromo] = useState<PromoSuccess | null>(null);
+  const [gstin, setGstin] = useState<string | null>(null);
 
   const addToCart = useCallback(
     (product: Product, quantity = 1) => {
@@ -55,7 +58,11 @@ export function CartProvider({ children }: { children: ReactNode }) {
     [setItems],
   );
 
-  const clearCart = useCallback(() => setItems([]), [setItems]);
+  const clearCart = useCallback(() => {
+    setItems([]);
+    setAppliedPromo(null);
+    setGstin(null);
+  }, [setItems]);
 
   const itemCount = useMemo(
     () => items.reduce((sum, item) => sum + item.quantity, 0),
@@ -69,6 +76,10 @@ export function CartProvider({ children }: { children: ReactNode }) {
   // tax shown here is the portion already baked into subtotal, not an add-on.
   const taxAmount = useMemo(() => extractGstFromInclusivePrice(subtotal), [subtotal]);
   const grandTotal = subtotal;
+  const discountAmount = useMemo(
+    () => (appliedPromo ? subtotal * appliedPromo.discountRate : 0),
+    [appliedPromo, subtotal],
+  );
 
   const value: CartContextValue = useMemo(
     () => ({
@@ -82,6 +93,11 @@ export function CartProvider({ children }: { children: ReactNode }) {
       subtotal,
       taxAmount,
       grandTotal,
+      appliedPromo,
+      setAppliedPromo,
+      discountAmount,
+      gstin,
+      setGstin,
     }),
     [
       items,
@@ -94,6 +110,9 @@ export function CartProvider({ children }: { children: ReactNode }) {
       subtotal,
       taxAmount,
       grandTotal,
+      appliedPromo,
+      discountAmount,
+      gstin,
     ],
   );
 

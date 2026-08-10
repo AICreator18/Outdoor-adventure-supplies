@@ -8,6 +8,7 @@ interface PaymentStepProps {
   address: AddressData;
   subtotal: number;
   shippingCharge: number;
+  discountAmount: number;
   onBack: () => void;
   onNext: (data: PaymentData) => void;
 }
@@ -17,7 +18,7 @@ type CardErrors = Partial<Record<keyof CardData, string>>;
 const EMPTY_CARD: CardData = { number: "", nameOnCard: "", expiry: "", cvv: "" };
 
 export default function PaymentStep({
-  initial, address, subtotal, shippingCharge, onBack, onNext,
+  initial, address, subtotal, shippingCharge, discountAmount, onBack, onNext,
 }: PaymentStepProps) {
   const [method, setMethod] = useState<PaymentMethod>(initial?.method ?? "card");
   const [card, setCard] = useState<CardData>(initial?.card ?? EMPTY_CARD);
@@ -26,7 +27,7 @@ export default function PaymentStep({
   const [upiError, setUpiError] = useState("");
 
   const codFee = method === "cod" ? 40 : 0;
-  const total = subtotal + shippingCharge + codFee;
+  const total = subtotal + shippingCharge + codFee - discountAmount;
 
   const setCardField = (field: keyof CardData) => (e: ChangeEvent<HTMLInputElement>) => {
     let value = e.target.value;

@@ -129,7 +129,7 @@ export default function AddressStep({ initial, onNext }: AddressStepProps) {
       </div>
 
       <div className="d-flex justify-content-end mt-4">
-        <Button type="submit" variant="primary" size="lg" icon="bi-arrow-right" iconPosition="end">
+        <Button type="submit" variant="orange" size="lg" icon="bi-arrow-right" iconPosition="end">
           Continue to Payment
         </Button>
       </div>

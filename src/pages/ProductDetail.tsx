@@ -68,7 +68,7 @@ export default function ProductDetail() {
       </Section>
 
       <Section background="white" className="pt-3">
-        <div className="row g-5">
+        <div className="row g-4 g-lg-5">
           <div className="col-lg-6">
             <ProductGallery images={product.images} productName={product.name} />
           </div>
@@ -157,7 +157,7 @@ export default function ProductDetail() {
       </Section>
 
       <Section background="cream">
-        <div className="row g-5">
+        <div className="row g-4 g-lg-5">
           <div className="col-lg-6">
             <h2 className="h4 fw-bold mb-3">Description</h2>
             <p className="text-stone-gray">{product.description}</p>

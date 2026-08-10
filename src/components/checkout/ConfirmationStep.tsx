@@ -8,7 +8,10 @@ interface ConfirmationStepProps {
 }
 
 export default function ConfirmationStep({ order, onContinueShopping }: ConfirmationStepProps) {
-  const { payment, address, items, shippingCharge, grandTotal, orderId, shippingEstimate } = order;
+  const {
+    payment, address, items, shippingCharge, discountAmount, promoCode, gstin,
+    grandTotal, orderId, shippingEstimate,
+  } = order;
 
   const paymentLabel =
     payment.method === "card"
@@ -69,6 +72,12 @@ export default function ConfirmationStep({ order, onContinueShopping }: Confirma
               <span className="text-forest">Free</span>
             </div>
           )}
+          {discountAmount > 0 && (
+            <div className="d-flex justify-content-between small text-forest mt-1">
+              <span>Promo{promoCode ? ` (${promoCode})` : ""}</span>
+              <span>-{formatCurrency(discountAmount)}</span>
+            </div>
+          )}
           <div className="d-flex justify-content-between fw-semibold small mt-2 pt-2 border-top">
             <span>Total</span>
             <span>{formatCurrency(grandTotal)}</span>
@@ -87,6 +96,13 @@ export default function ConfirmationStep({ order, onContinueShopping }: Confirma
             <span className="text-stone-gray d-block mt-1">Est. delivery: {shippingEstimate}</span>
           </div>
         </div>
+
+        {gstin && (
+          <div className="small mt-3 pt-3 border-top">
+            <span className="text-stone-gray d-block">GST Invoice</span>
+            <span className="fw-semibold">Issued to {gstin}</span>
+          </div>
+        )}
       </div>
 
       <p className="text-stone-gray small mb-4">

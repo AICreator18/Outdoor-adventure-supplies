@@ -32,6 +32,9 @@ export interface PlacedOrder {
   payment: PaymentData;
   subtotal: number;
   shippingCharge: number;
+  discountAmount: number;
+  promoCode?: string;
+  gstin?: string | null;
   grandTotal: number;
   shippingEstimate: string;
 }
